@@ -4,7 +4,7 @@ This project explores how political affiliation and ideology shape public attitu
 
 ## 📊 Dataset
 
-- **Source**: Survey of U.S. adults on AI attitudes (n ≈ XXXX)
+- **Source**: Survey of U.S. adults on AI attitudes (n = 1007)
 - **Key variables**:
   - Political affiliation (Party ID)
   - Political ideology (liberal–conservative scale)
