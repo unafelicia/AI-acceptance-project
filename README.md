@@ -38,4 +38,6 @@ This project explores how political affiliation and ideology shape public attitu
 - pandas, numpy, seaborn, matplotlib
 - statsmodels, pingouin, semopy, graphviz
 
-## 📁 File Structure
+## ✍️ Author
+
+Meng Ni (Felicia)
