@@ -1,0 +1,1008 @@
+gender,age,ethnic,education,Q5,AI_Support,AI_Trust,AI_Understanding,FOMO,AI_Benefit,AI_Efficiency,AI_Optimism,AI_Risk,Transparency_Importance,AI_Dependency,income,Party_ID,Ideology,religious,Q23,State,Respondent Group,Party_Label,State_Name,State_Color,Democrat,Republican,Independent
+1,4,4,4,1,5,5,5,5,5,5,5,1,5,5,3,1,7,3,2,5,"Scenario #6, Treatment",Democrat,California,Blue,1,0,0
+2,5,6,4,1,3,3,5,4,4,4,3,4,4,2,4,3,7,2,2,37,"Scenario #1, Treatment",Independent,Oregon,Blue,0,0,1
+2,6,6,5,1,4,4,1,4,4,3,3,2,4,3,1,1,3,2,2,32,"Scenario #4, Treatment",Democrat,New York,Blue,1,0,0
+1,3,6,5,1,5,5,5,5,5,5,5,1,5,5,6,3,7,1,2,43,"Scenario #5, Treatment",Independent,Texas,Other,0,0,1
+2,2,2,3,1,4,4,4,4,5,3,4,2,5,3,3,1,4,10,2,23,"Scenario #2, Treatment",Democrat,Minnesota,Other,1,0,0
+1,3,6,2,1,5,5,4,4,5,5,5,2,5,5,2,1,7,2,2,40,"Scenario #2, Treatment",Democrat,South Carolina,Red,1,0,0
+1,4,1,6,1,5,5,5,5,5,5,5,1,5,5,6,3,7,3,2,13,"Scenario #4, Treatment",Independent,Illinois,Blue,0,0,1
+2,7,6,5,1,3,2,1,2,3,4,3,1,5,4,6,3,6,1,2,13,Control Scenario,Independent,Illinois,Blue,0,0,1
+2,4,6,3,1,3,3,2,3,4,3,4,2,3,3,5,2,6,9,2,24,Control Scenario,Republican,Mississippi,Red,0,1,0
+2,4,6,3,1,4,3,4,4,4,4,4,3,4,5,2,2,3,1,2,5,"Scenario #6, Treatment",Republican,California,Blue,0,1,0
+1,2,6,2,1,3,2,2,3,2,1,4,1,2,1,2,3,6,2,2,46,"Scenario #1, Treatment",Independent,Virginia,Other,0,0,1
+1,2,4,3,1,4,4,5,4,5,4,5,2,5,4,3,1,3,2,2,9,"Scenario #3, Treatment",Democrat,Florida,Other,1,0,0
+1,4,3,5,1,5,4,4,4,3,4,4,1,4,5,4,3,7,2,2,46,"Scenario #3, Treatment",Independent,Virginia,Other,0,0,1
+1,4,6,3,1,5,5,5,5,5,5,5,1,5,5,5,3,1,5,1,32,"Scenario #5, Treatment",Independent,New York,Blue,0,0,1
+2,4,6,2,1,5,5,5,5,1,5,3,3,2,3,6,1,1,9,2,33,"Scenario #1, Treatment",Democrat,North Carolina,Swing,1,0,0
+1,4,6,5,1,4,4,2,4,3,2,4,3,4,4,6,1,2,10,2,21,"Scenario #6, Treatment",Democrat,Massachusetts,Blue,1,0,0
+1,4,6,2,1,4,4,4,3,3,3,3,3,3,3,2,3,5,8,2,35,"Scenario #3, Treatment",Independent,Ohio,Other,0,0,1
+1,4,6,6,1,5,4,5,4,4,5,4,1,4,5,6,1,1,3,1,35,"Scenario #4, Treatment",Democrat,Ohio,Other,1,0,0
+2,3,6,5,1,5,5,5,4,4,4,4,1,5,5,6,2,1,1,2,33,"Scenario #1, Treatment",Republican,North Carolina,Swing,0,1,0
+2,6,6,2,1,4,4,1,3,4,4,4,2,4,4,3,3,4,1,2,32,Control Scenario,Independent,New York,Blue,0,0,1
+2,5,6,2,1,1,1,5,1,1,5,1,1,1,1,6,3,7,3,2,1,"Scenario #4, Treatment",Independent,Alabama,Red,0,0,1
+2,3,6,5,1,4,5,4,5,4,5,4,1,4,5,5,1,2,5,2,13,"Scenario #3, Treatment",Democrat,Illinois,Blue,1,0,0
+1,3,6,2,1,3,3,2,4,4,4,3,2,4,4,1,2,4,9,2,35,"Scenario #5, Treatment",Republican,Ohio,Other,0,1,0
+2,7,6,5,1,2,2,4,2,3,3,3,3,4,4,4,3,4,9,2,33,"Scenario #6, Treatment",Independent,North Carolina,Swing,0,0,1
+2,1,6,3,1,2,2,4,4,4,4,4,2,5,4,3,1,4,1,2,5,"Scenario #1, Treatment",Democrat,California,Blue,1,0,0
+2,5,6,4,1,4,4,4,3,4,4,4,3,4,4,3,2,5,3,2,40,"Scenario #5, Treatment",Republican,South Carolina,Red,0,1,0
+2,6,6,2,1,3,3,3,2,3,3,3,3,3,3,2,1,1,1,2,22,"Scenario #5, Treatment",Democrat,Michigan,Swing,1,0,0
+2,1,3,2,1,2,5,4,4,5,2,5,3,4,4,3,1,3,1,2,9,Control Scenario,Democrat,Florida,Other,1,0,0
+2,4,5,3,1,4,4,4,3,4,4,4,1,4,5,4,2,2,2,1,17,"Scenario #4, Treatment",Republican,Kentucky,Red,0,1,0
+2,3,3,2,1,4,4,5,5,5,5,5,1,5,5,2,1,4,1,2,40,"Scenario #6, Treatment",Democrat,South Carolina,Red,1,0,0
+2,2,6,1,1,3,3,3,3,3,3,3,3,3,3,3,3,6,9,2,9,Control Scenario,Independent,Florida,Other,0,0,1
+2,7,6,4,1,1,1,2,1,4,1,2,2,1,2,3,3,7,1,2,46,"Scenario #2, Treatment",Independent,Virginia,Other,0,0,1
+2,2,3,4,1,4,3,3,2,4,3,4,2,3,2,5,1,1,9,2,20,Control Scenario,Democrat,Maryland,Blue,1,0,0
+2,2,4,3,1,1,1,3,3,3,2,4,3,3,3,5,2,6,10,2,21,"Scenario #1, Treatment",Republican,Massachusetts,Blue,0,1,0
+1,3,3,2,1,4,4,4,4,4,4,4,2,4,4,2,1,3,3,2,43,"Scenario #6, Treatment",Democrat,Texas,Other,1,0,0
+1,2,6,3,1,4,4,5,4,3,2,4,4,3,4,2,1,4,1,2,17,"Scenario #6, Treatment",Democrat,Kentucky,Red,1,0,0
+2,2,6,3,1,2,1,4,2,2,2,2,2,2,4,4,1,1,9,2,32,"Scenario #4, Treatment",Democrat,New York,Blue,1,0,0
+2,2,3,2,1,2,2,4,1,2,2,3,3,2,3,3,2,4,9,2,7,"Scenario #1, Treatment",Republican,Connecticut,Blue,0,1,0
+1,2,4,6,1,5,5,5,5,5,5,5,1,5,5,5,1,1,9,1,5,"Scenario #4, Treatment",Democrat,California,Blue,1,0,0
+1,4,6,2,1,5,5,5,5,5,5,5,1,5,5,2,3,6,8,2,13,"Scenario #6, Treatment",Independent,Illinois,Blue,0,0,1
+2,5,3,5,1,1,1,4,1,1,1,1,3,3,1,1,1,2,3,2,7,"Scenario #4, Treatment",Democrat,Connecticut,Blue,1,0,0
+1,3,6,5,1,4,4,4,4,4,2,2,4,4,4,4,3,2,3,2,46,"Scenario #2, Treatment",Independent,Virginia,Other,0,0,1
+2,3,4,5,1,5,4,5,4,4,5,3,4,5,5,5,1,4,10,1,47,"Scenario #1, Treatment",Democrat,Washington,Blue,1,0,0
+2,3,2,5,1,3,3,4,5,4,4,4,3,3,3,6,3,5,9,2,32,"Scenario #2, Treatment",Independent,New York,Blue,0,0,1
+2,2,6,2,1,5,5,4,4,4,2,4,2,4,4,3,1,2,9,2,9,"Scenario #3, Treatment",Democrat,Florida,Other,1,0,0
+1,4,6,5,1,5,5,5,5,5,5,5,1,5,5,5,1,7,2,1,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+2,3,3,2,1,4,5,4,1,4,5,3,2,5,3,3,1,4,10,2,22,"Scenario #5, Treatment",Democrat,Michigan,Swing,1,0,0
+2,3,6,4,1,3,4,4,3,4,3,4,2,4,4,5,3,5,3,2,14,"Scenario #5, Treatment",Independent,Indiana,Other,0,0,1
+2,4,6,2,1,3,3,2,3,3,3,3,3,3,3,3,2,4,9,2,15,Control Scenario,Republican,Iowa,Other,0,1,0
+2,2,6,3,1,4,4,4,3,4,4,4,2,4,4,2,2,4,9,2,16,"Scenario #3, Treatment",Republican,Kansas,Red,0,1,0
+2,3,6,2,1,2,2,2,2,3,1,3,3,2,4,2,3,5,9,2,28,"Scenario #3, Treatment",Independent,Nevada,Swing,0,0,1
+1,4,6,5,1,5,5,5,5,5,5,5,1,4,5,5,1,7,2,1,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+2,3,2,1,1,4,4,2,3,3,4,4,3,4,3,3,4,4,10,2,5,Control Scenario,Other,California,Blue,0,0,0
+1,2,6,3,1,3,3,3,3,3,3,3,3,3,3,4,1,4,2,2,5,"Scenario #2, Treatment",Democrat,California,Blue,1,0,0
+1,4,6,3,1,4,4,4,4,4,4,4,2,5,4,4,2,3,3,2,35,Control Scenario,Republican,Ohio,Other,0,1,0
+2,3,6,4,1,2,2,4,3,4,3,4,1,4,4,3,2,5,1,2,35,"Scenario #4, Treatment",Republican,Ohio,Other,0,1,0
+2,7,6,3,1,4,4,4,4,4,4,4,2,4,4,3,2,5,2,2,24,"Scenario #6, Treatment",Republican,Mississippi,Red,0,1,0
+2,3,1,2,1,4,3,2,3,3,3,4,2,3,3,4,2,8,3,2,36,Control Scenario,Republican,Oklahoma,Red,0,1,0
+2,4,6,5,1,5,5,5,5,5,5,5,1,5,5,6,1,1,1,1,9,"Scenario #5, Treatment",Democrat,Florida,Other,1,0,0
+1,2,6,2,1,2,2,3,5,4,4,1,4,4,4,3,3,5,8,2,35,"Scenario #1, Treatment",Independent,Ohio,Other,0,0,1
+2,2,6,3,1,2,2,4,2,4,4,4,2,4,4,2,1,2,8,2,22,"Scenario #6, Treatment",Democrat,Michigan,Swing,1,0,0
+2,2,6,4,1,5,4,5,5,4,5,3,2,5,5,5,1,1,9,2,9,"Scenario #6, Treatment",Democrat,Florida,Other,1,0,0
+2,4,2,4,1,4,3,4,4,4,4,4,3,4,2,4,2,8,10,1,43,"Scenario #5, Treatment",Republican,Texas,Other,0,1,0
+2,4,6,5,1,4,4,4,4,4,4,5,1,5,5,6,1,4,9,2,22,"Scenario #6, Treatment",Democrat,Michigan,Swing,1,0,0
+2,4,6,3,1,4,4,3,3,4,5,4,4,5,5,5,1,4,9,2,23,"Scenario #3, Treatment",Democrat,Minnesota,Other,1,0,0
+2,3,6,2,1,2,2,2,3,3,3,3,3,3,3,1,2,5,9,2,35,"Scenario #5, Treatment",Republican,Ohio,Other,0,1,0
+1,2,6,4,1,4,3,5,5,5,4,4,1,5,4,6,2,3,8,2,5,"Scenario #2, Treatment",Republican,California,Blue,0,1,0
+2,3,4,5,1,4,4,2,3,4,4,4,1,4,4,3,3,5,2,2,43,Control Scenario,Independent,Texas,Other,0,0,1
+1,4,6,5,1,3,3,4,2,4,3,4,3,4,5,3,2,5,2,2,4,"Scenario #2, Treatment",Republican,Arkansas,Red,0,1,0
+2,2,4,4,1,4,3,3,3,4,4,2,2,3,3,3,1,5,3,2,49,"Scenario #4, Treatment",Democrat,Wisconsin,Swing,1,0,0
+1,3,4,3,1,5,5,5,5,5,5,5,1,5,5,3,3,1,2,1,5,"Scenario #1, Treatment",Independent,California,Blue,0,0,1
+2,2,3,2,1,4,5,5,5,4,5,4,1,4,5,1,2,2,9,2,13,Control Scenario,Republican,Illinois,Blue,0,1,0
+2,4,3,2,1,3,2,4,4,4,3,5,1,4,5,3,1,4,1,2,43,"Scenario #4, Treatment",Democrat,Texas,Other,1,0,0
+2,3,3,2,1,2,5,4,2,2,1,3,1,3,1,5,2,7,3,2,43,"Scenario #3, Treatment",Republican,Texas,Other,0,1,0
+1,3,4,3,1,5,5,5,3,4,4,5,3,5,5,4,1,4,1,2,20,"Scenario #3, Treatment",Democrat,Maryland,Blue,1,0,0
+1,3,6,2,1,4,3,1,4,5,2,4,3,5,2,2,1,6,2,2,22,"Scenario #1, Treatment",Democrat,Michigan,Swing,1,0,0
+2,5,6,4,1,2,2,4,3,3,1,3,1,3,3,3,2,4,2,2,6,"Scenario #5, Treatment",Republican,Colorado,Other,0,1,0
+2,3,3,5,1,3,5,3,3,4,4,5,4,2,3,4,1,4,2,2,49,"Scenario #4, Treatment",Democrat,Wisconsin,Swing,1,0,0
+2,3,6,2,1,3,2,2,4,4,1,3,5,2,3,3,3,4,2,2,49,"Scenario #5, Treatment",Independent,Wisconsin,Swing,0,0,1
+2,6,6,5,1,4,4,4,4,4,4,5,2,4,4,6,3,7,1,2,43,Control Scenario,Independent,Texas,Other,0,0,1
+2,2,6,3,1,4,3,3,4,4,3,4,2,4,4,2,2,4,3,2,25,"Scenario #5, Treatment",Republican,Missouri,Red,0,1,0
+1,2,6,5,1,5,5,5,5,5,5,5,1,5,5,2,2,1,1,1,38,"Scenario #6, Treatment",Republican,Pennsylvania,Swing,0,1,0
+2,2,6,4,1,4,2,4,2,2,4,2,2,3,4,3,2,2,5,2,22,"Scenario #4, Treatment",Republican,Michigan,Swing,0,1,0
+2,3,3,5,1,1,1,1,1,3,3,1,5,3,1,1,3,7,3,2,22,"Scenario #6, Treatment",Independent,Michigan,Swing,0,0,1
+2,5,6,2,1,4,5,4,4,5,5,5,2,5,5,4,3,5,9,2,25,"Scenario #6, Treatment",Independent,Missouri,Red,0,0,1
+1,3,3,4,1,4,4,4,4,4,3,4,3,3,4,3,3,4,2,2,42,"Scenario #1, Treatment",Independent,Tennessee,Red,0,0,1
+2,3,4,3,1,5,4,5,4,5,2,5,4,5,5,3,2,3,2,2,43,"Scenario #4, Treatment",Republican,Texas,Other,0,1,0
+1,2,3,5,1,4,5,3,4,3,4,5,3,2,4,4,1,4,10,2,13,"Scenario #3, Treatment",Democrat,Illinois,Blue,1,0,0
+2,3,6,1,1,3,3,3,3,3,3,3,3,3,3,4,3,7,3,2,37,"Scenario #2, Treatment",Independent,Oregon,Blue,0,0,1
+1,2,6,2,1,4,5,4,4,3,4,3,2,4,4,5,2,5,9,2,30,"Scenario #3, Treatment",Republican,New Jersey,Blue,0,1,0
+2,3,4,5,1,4,4,4,3,3,4,3,1,4,5,4,5,4,1,2,14,"Scenario #3, Treatment",Other,Indiana,Other,0,0,0
+2,2,6,2,1,2,2,5,3,5,5,5,3,4,4,3,3,7,9,2,32,"Scenario #6, Treatment",Independent,New York,Blue,0,0,1
+2,7,6,5,1,1,1,2,3,2,4,2,1,5,4,6,3,7,1,2,9,"Scenario #4, Treatment",Independent,Florida,Other,0,0,1
+1,4,4,4,1,5,5,5,5,5,5,5,1,5,5,4,3,7,9,2,9,Control Scenario,Independent,Florida,Other,0,0,1
+2,4,6,5,1,2,2,2,1,2,2,3,2,4,2,1,2,6,1,2,46,"Scenario #2, Treatment",Republican,Virginia,Other,0,1,0
+1,3,3,3,1,4,4,4,3,3,4,4,1,4,5,5,1,2,9,2,33,"Scenario #5, Treatment",Democrat,North Carolina,Swing,1,0,0
+1,4,6,5,1,5,5,5,5,5,5,5,1,5,5,6,1,1,2,1,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+2,2,3,3,1,3,4,2,4,4,4,5,1,5,5,2,2,4,3,2,43,"Scenario #2, Treatment",Republican,Texas,Other,0,1,0
+2,4,4,2,1,2,1,5,1,4,4,4,5,4,1,1,2,1,9,2,9,"Scenario #2, Treatment",Republican,Florida,Other,0,1,0
+2,5,6,2,1,3,3,2,1,2,2,2,3,2,2,2,2,4,2,2,22,Control Scenario,Republican,Michigan,Swing,0,1,0
+1,6,2,5,1,2,2,3,4,4,2,4,2,3,3,3,2,4,2,2,5,"Scenario #2, Treatment",Republican,California,Blue,0,1,0
+1,4,6,5,1,5,5,5,5,5,5,5,1,5,5,5,1,1,2,1,32,Control Scenario,Democrat,New York,Blue,1,0,0
+2,2,4,3,1,3,2,4,2,3,3,4,2,2,4,3,1,3,9,2,5,"Scenario #3, Treatment",Democrat,California,Blue,1,0,0
+1,3,6,2,1,3,3,1,4,2,2,2,5,4,4,1,2,1,9,2,6,"Scenario #4, Treatment",Republican,Colorado,Other,0,1,0
+2,2,3,2,1,3,3,3,3,3,3,3,3,3,3,1,1,4,10,2,1,Control Scenario,Democrat,Alabama,Red,1,0,0
+2,2,3,3,1,5,5,5,5,5,5,5,1,5,5,1,3,4,1,1,33,"Scenario #1, Treatment",Independent,North Carolina,Swing,0,0,1
+2,2,6,2,1,3,3,3,3,3,3,3,3,3,3,3,3,4,4,2,40,"Scenario #1, Treatment",Independent,South Carolina,Red,0,0,1
+2,2,3,1,1,5,4,5,5,4,3,4,1,4,5,1,2,6,9,2,46,"Scenario #2, Treatment",Republican,Virginia,Other,0,1,0
+2,5,6,3,1,5,5,5,5,5,5,5,1,5,5,1,1,7,1,2,38,"Scenario #6, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,2,6,2,1,4,4,4,4,4,5,4,3,5,4,3,3,4,2,2,35,"Scenario #6, Treatment",Independent,Ohio,Other,0,0,1
+2,3,6,3,1,5,5,5,5,4,4,5,2,5,4,3,2,1,2,2,30,"Scenario #6, Treatment",Republican,New Jersey,Blue,0,1,0
+2,4,6,5,1,3,4,4,4,4,3,3,2,4,4,3,3,4,3,2,30,"Scenario #5, Treatment",Independent,New Jersey,Blue,0,0,1
+1,2,4,2,1,5,3,5,5,3,2,1,1,3,3,4,2,8,4,2,23,"Scenario #1, Treatment",Republican,Minnesota,Other,0,1,0
+1,3,6,2,1,4,4,4,4,4,3,4,2,4,3,4,2,7,10,2,22,"Scenario #4, Treatment",Republican,Michigan,Swing,0,1,0
+1,2,6,5,1,4,4,5,2,4,4,5,2,5,4,6,2,6,1,2,5,Control Scenario,Republican,California,Blue,0,1,0
+2,4,6,6,1,5,5,5,5,5,4,5,3,4,4,5,1,1,2,2,5,"Scenario #2, Treatment",Democrat,California,Blue,1,0,0
+2,6,3,3,1,4,4,4,3,4,4,4,2,4,4,1,1,4,10,2,13,"Scenario #2, Treatment",Democrat,Illinois,Blue,1,0,0
+1,4,6,5,1,5,5,5,5,4,5,5,1,5,5,6,1,1,2,2,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+2,4,6,2,1,2,2,4,2,3,3,3,2,3,3,1,2,1,9,2,22,"Scenario #2, Treatment",Republican,Michigan,Swing,0,1,0
+1,4,1,3,1,4,4,4,4,3,5,4,2,5,5,4,3,7,6,2,20,Control Scenario,Independent,Maryland,Blue,0,0,1
+1,3,3,4,1,4,4,4,2,4,2,4,1,3,3,3,1,2,9,2,24,"Scenario #4, Treatment",Democrat,Mississippi,Red,1,0,0
+1,5,6,6,1,2,2,4,2,4,4,4,4,3,4,6,3,6,8,2,31,"Scenario #1, Treatment",Independent,New Mexico,Other,0,0,1
+2,2,3,5,1,3,4,3,4,3,4,3,2,3,4,6,2,4,1,2,5,Control Scenario,Republican,California,Blue,0,1,0
+1,2,3,1,1,4,3,3,3,3,3,4,2,3,4,3,3,3,1,2,10,"Scenario #5, Treatment",Independent,Georgia,Swing,0,0,1
+2,2,3,2,1,4,4,4,4,4,4,4,2,5,4,3,2,2,2,1,44,"Scenario #1, Treatment",Republican,Utah,Red,0,1,0
+1,4,6,5,1,5,4,2,5,4,5,5,4,5,5,5,1,1,3,1,9,"Scenario #2, Treatment",Democrat,Florida,Other,1,0,0
+2,6,6,2,1,5,5,3,5,5,4,5,1,5,5,5,3,6,10,2,7,Control Scenario,Independent,Connecticut,Blue,0,0,1
+2,2,6,2,1,3,3,3,3,3,3,3,3,3,3,4,1,4,10,2,10,"Scenario #2, Treatment",Democrat,Georgia,Swing,1,0,0
+1,2,4,3,1,2,2,2,3,4,4,2,3,4,2,3,3,2,9,2,43,"Scenario #3, Treatment",Independent,Texas,Other,0,0,1
+2,4,6,3,1,4,4,5,4,5,4,4,2,3,3,2,2,4,3,2,42,"Scenario #5, Treatment",Republican,Tennessee,Red,0,1,0
+2,2,3,2,1,3,3,3,3,3,4,3,3,4,4,5,4,4,3,2,9,"Scenario #2, Treatment",Other,Florida,Other,0,0,0
+2,7,6,4,1,4,4,4,4,4,4,4,2,4,4,2,2,4,2,2,27,"Scenario #5, Treatment",Republican,Nebraska,Red,0,1,0
+1,4,6,5,1,4,4,4,3,4,4,3,2,4,4,6,2,8,10,1,5,"Scenario #3, Treatment",Republican,California,Blue,0,1,0
+1,3,6,5,1,3,3,2,4,3,4,4,2,5,3,4,2,3,9,2,38,Control Scenario,Republican,Pennsylvania,Swing,0,1,0
+2,3,2,5,1,2,2,2,2,3,3,4,3,5,4,1,1,2,9,2,5,"Scenario #6, Treatment",Democrat,California,Blue,1,0,0
+2,2,3,5,1,4,3,4,5,3,4,4,4,3,2,3,2,4,9,2,49,"Scenario #6, Treatment",Republican,Wisconsin,Swing,0,1,0
+2,4,6,5,1,3,3,4,3,3,2,3,2,3,4,4,4,4,9,2,9,"Scenario #5, Treatment",Other,Florida,Other,0,0,0
+2,4,2,6,1,3,3,3,3,3,3,3,3,3,3,5,2,4,10,2,5,"Scenario #1, Treatment",Republican,California,Blue,0,1,0
+1,4,6,6,1,5,5,5,5,5,5,5,1,5,5,6,1,1,2,1,47,"Scenario #6, Treatment",Democrat,Washington,Blue,1,0,0
+1,6,6,6,1,3,3,4,2,4,4,4,2,4,4,6,3,7,2,1,46,"Scenario #1, Treatment",Independent,Virginia,Other,0,0,1
+1,2,6,6,1,5,5,4,2,4,4,5,4,5,4,6,3,7,2,2,49,Control Scenario,Independent,Wisconsin,Swing,0,0,1
+1,4,6,6,1,5,4,5,5,5,5,5,1,5,5,6,1,1,2,1,43,"Scenario #1, Treatment",Democrat,Texas,Other,1,0,0
+2,3,6,6,1,4,5,4,5,5,4,5,2,4,5,6,1,7,5,2,32,"Scenario #2, Treatment",Democrat,New York,Blue,1,0,0
+2,4,6,6,1,4,3,2,2,4,4,4,3,3,2,5,3,5,1,2,33,"Scenario #3, Treatment",Independent,North Carolina,Swing,0,0,1
+1,3,6,6,1,5,5,5,5,5,5,5,1,5,5,5,1,1,1,1,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+1,3,6,6,1,5,5,5,5,5,5,5,1,5,5,6,1,7,1,2,7,"Scenario #2, Treatment",Democrat,Connecticut,Blue,1,0,0
+2,3,6,6,1,2,2,1,2,3,4,3,4,4,4,4,3,5,2,2,3,Control Scenario,Independent,Arizona,Swing,0,0,1
+2,3,6,6,1,5,4,5,5,4,4,5,1,4,5,5,1,2,8,2,1,"Scenario #5, Treatment",Democrat,Alabama,Red,1,0,0
+1,3,6,6,1,5,5,5,5,5,5,5,1,5,5,6,1,1,2,1,32,Control Scenario,Democrat,New York,Blue,1,0,0
+2,3,2,6,1,5,5,5,4,5,4,3,4,4,4,5,1,1,7,2,10,"Scenario #2, Treatment",Democrat,Georgia,Swing,1,0,0
+1,4,6,6,1,5,4,5,4,5,4,5,2,5,4,5,1,2,5,2,10,"Scenario #6, Treatment",Democrat,Georgia,Swing,1,0,0
+2,3,3,6,1,4,4,4,4,4,4,4,2,4,3,2,1,2,3,2,18,"Scenario #5, Treatment",Democrat,Louisiana,Red,1,0,0
+1,4,6,6,1,4,5,4,4,4,5,5,2,4,5,6,1,7,2,1,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+2,4,4,6,1,4,2,4,2,4,2,3,4,2,4,5,2,4,2,2,11,"Scenario #4, Treatment",Republican,Hawaii,Blue,0,1,0
+1,3,6,6,1,5,5,5,5,5,5,5,1,5,5,6,1,7,5,1,5,"Scenario #6, Treatment",Democrat,California,Blue,1,0,0
+1,3,6,6,1,5,4,5,3,4,5,4,1,4,5,6,1,7,3,2,27,"Scenario #2, Treatment",Democrat,Nebraska,Red,1,0,0
+1,4,6,6,1,4,5,4,4,4,4,3,3,4,4,6,1,4,5,2,3,"Scenario #4, Treatment",Democrat,Arizona,Swing,1,0,0
+1,4,6,6,1,4,4,4,3,4,4,3,2,4,4,6,1,4,5,2,32,"Scenario #4, Treatment",Democrat,New York,Blue,1,0,0
+1,3,6,6,1,5,4,5,5,4,5,4,1,4,5,6,3,1,5,2,9,"Scenario #5, Treatment",Independent,Florida,Other,0,0,1
+1,3,6,6,1,5,5,5,5,5,5,5,1,5,5,6,1,1,1,1,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+1,7,6,6,1,3,3,2,2,4,2,3,3,4,4,5,3,6,2,2,7,"Scenario #2, Treatment",Independent,Connecticut,Blue,0,0,1
+1,6,6,6,1,5,4,4,4,4,5,4,1,5,5,6,2,2,3,2,21,"Scenario #2, Treatment",Republican,Massachusetts,Blue,0,1,0
+1,3,6,6,1,5,5,4,5,5,5,5,2,5,5,6,1,1,1,1,47,"Scenario #6, Treatment",Democrat,Washington,Blue,1,0,0
+1,4,6,6,1,5,4,5,4,4,3,5,1,2,5,6,3,7,8,2,9,"Scenario #3, Treatment",Independent,Florida,Other,0,0,1
+2,4,4,6,1,5,4,3,5,4,5,4,1,4,5,3,3,1,2,2,20,Control Scenario,Independent,Maryland,Blue,0,0,1
+1,5,3,6,1,4,4,4,4,4,4,4,2,4,4,3,1,7,8,1,23,"Scenario #4, Treatment",Democrat,Minnesota,Other,1,0,0
+1,3,6,6,1,5,5,4,4,5,5,5,2,5,5,6,1,6,5,2,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+2,6,3,6,1,5,5,4,5,5,5,5,1,5,5,5,2,2,1,1,20,Control Scenario,Republican,Maryland,Blue,0,1,0
+1,3,6,6,1,4,5,4,4,5,4,5,1,4,4,6,1,7,2,2,32,"Scenario #5, Treatment",Democrat,New York,Blue,1,0,0
+2,5,6,6,1,4,3,4,3,3,2,4,2,3,4,5,2,4,1,2,32,"Scenario #1, Treatment",Republican,New York,Blue,0,1,0
+1,3,6,6,1,4,5,5,3,3,5,5,2,5,4,6,2,7,2,2,32,"Scenario #3, Treatment",Republican,New York,Blue,0,1,0
+2,5,6,6,1,4,3,2,3,4,4,4,4,4,3,6,2,1,9,2,43,Control Scenario,Republican,Texas,Other,0,1,0
+2,5,6,6,1,5,4,4,5,4,5,5,2,5,5,6,1,1,2,1,9,"Scenario #2, Treatment",Democrat,Florida,Other,1,0,0
+2,7,6,6,1,4,4,3,3,4,4,4,3,4,4,4,1,2,2,2,35,"Scenario #3, Treatment",Democrat,Ohio,Other,1,0,0
+2,7,6,6,1,3,3,2,3,4,4,4,3,3,4,3,1,4,9,2,8,"Scenario #6, Treatment",Democrat,Delaware,Blue,1,0,0
+1,4,6,6,1,4,4,5,4,4,4,4,2,4,4,6,1,4,1,2,47,"Scenario #5, Treatment",Democrat,Washington,Blue,1,0,0
+1,7,6,6,1,4,4,4,2,4,3,4,1,4,5,5,2,4,1,1,5,"Scenario #6, Treatment",Republican,California,Blue,0,1,0
+2,7,6,6,1,3,3,2,1,3,3,3,3,3,4,6,3,7,2,2,21,"Scenario #5, Treatment",Independent,Massachusetts,Blue,0,0,1
+1,7,6,6,1,2,2,5,2,3,2,3,2,2,3,3,3,6,1,1,25,"Scenario #1, Treatment",Independent,Missouri,Red,0,0,1
+1,3,6,6,1,5,5,3,5,3,3,3,4,2,3,4,2,3,2,2,7,"Scenario #2, Treatment",Republican,Connecticut,Blue,0,1,0
+2,3,6,6,1,3,4,5,5,5,5,4,3,4,3,3,3,4,1,2,14,Control Scenario,Independent,Indiana,Other,0,0,1
+1,3,6,6,1,3,3,4,3,5,4,4,2,4,5,3,4,3,6,2,34,"Scenario #4, Treatment",Other,North Dakota,Red,0,0,0
+1,2,6,6,1,4,4,5,5,5,5,5,2,4,5,2,2,2,1,2,12,"Scenario #5, Treatment",Republican,Idaho,Red,0,1,0
+2,3,2,6,1,1,1,4,4,4,4,4,4,4,4,6,1,2,8,2,32,"Scenario #6, Treatment",Democrat,New York,Blue,1,0,0
+2,5,6,3,1,4,4,4,4,4,5,4,2,4,4,3,3,3,2,1,43,"Scenario #3, Treatment",Independent,Texas,Other,0,0,1
+2,4,2,1,1,5,5,5,5,5,5,5,1,5,5,3,1,4,2,2,38,"Scenario #4, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+2,3,6,2,1,3,3,5,3,3,3,3,3,3,3,3,3,4,3,2,22,"Scenario #2, Treatment",Independent,Michigan,Swing,0,0,1
+2,3,3,3,1,5,2,5,5,5,5,5,1,5,5,5,2,7,1,2,43,"Scenario #2, Treatment",Republican,Texas,Other,0,1,0
+2,7,6,4,1,4,4,4,4,4,4,4,2,4,4,3,1,4,1,2,33,"Scenario #4, Treatment",Democrat,North Carolina,Swing,1,0,0
+2,3,2,2,1,5,5,4,5,5,4,5,2,5,4,4,3,1,2,1,3,"Scenario #6, Treatment",Independent,Arizona,Swing,0,0,1
+2,2,4,6,1,5,5,4,4,5,5,4,1,4,5,4,3,2,10,2,17,"Scenario #3, Treatment",Independent,Kentucky,Red,0,0,1
+2,2,3,2,1,5,4,4,4,5,5,4,1,4,4,2,2,6,2,2,43,Control Scenario,Republican,Texas,Other,0,1,0
+1,3,6,4,1,1,1,4,4,3,5,4,2,4,4,1,2,4,9,2,22,"Scenario #4, Treatment",Republican,Michigan,Swing,0,1,0
+3,3,6,2,1,3,2,5,3,3,2,2,1,3,3,6,2,2,10,2,28,"Scenario #5, Treatment",Republican,Nevada,Swing,0,1,0
+1,4,6,2,1,5,4,4,5,5,4,5,1,4,5,3,2,1,3,2,43,"Scenario #2, Treatment",Republican,Texas,Other,0,1,0
+2,3,6,4,1,3,4,4,3,4,4,3,2,4,4,4,2,3,9,2,15,"Scenario #3, Treatment",Republican,Iowa,Other,0,1,0
+2,4,6,2,1,5,4,4,5,5,5,5,1,5,5,2,3,6,1,2,33,"Scenario #1, Treatment",Independent,North Carolina,Swing,0,0,1
+2,4,3,4,1,3,3,3,3,3,3,3,3,3,3,1,1,4,3,2,46,Control Scenario,Democrat,Virginia,Other,1,0,0
+2,2,3,2,1,3,3,5,3,3,3,3,3,3,3,1,1,1,9,2,9,"Scenario #6, Treatment",Democrat,Florida,Other,1,0,0
+2,3,6,4,1,4,4,4,2,3,2,3,3,3,3,3,3,5,10,2,17,"Scenario #5, Treatment",Independent,Kentucky,Red,0,0,1
+2,5,6,2,1,2,2,2,3,4,3,4,3,2,2,3,3,5,10,2,1,"Scenario #6, Treatment",Independent,Alabama,Red,0,0,1
+2,4,2,2,1,4,4,4,4,4,4,5,2,5,4,4,3,4,5,2,25,Control Scenario,Independent,Missouri,Red,0,0,1
+2,4,6,2,1,4,4,5,5,5,5,5,1,5,4,1,1,5,3,2,10,Control Scenario,Democrat,Georgia,Swing,1,0,0
+2,2,3,3,1,5,3,3,3,5,3,4,1,2,4,3,1,1,9,2,10,"Scenario #2, Treatment",Democrat,Georgia,Swing,1,0,0
+2,3,6,1,1,2,2,4,4,4,3,4,4,4,4,3,1,1,9,2,14,"Scenario #1, Treatment",Democrat,Indiana,Other,1,0,0
+2,4,6,2,1,2,1,4,2,4,3,4,2,3,4,2,1,4,1,2,17,"Scenario #5, Treatment",Democrat,Kentucky,Red,1,0,0
+2,5,6,4,1,2,2,3,3,3,2,2,3,3,3,3,1,4,3,2,33,"Scenario #2, Treatment",Democrat,North Carolina,Swing,1,0,0
+2,5,6,3,1,3,3,4,3,3,3,3,3,3,3,1,1,2,9,2,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+2,7,6,3,1,4,3,4,1,3,4,4,2,5,5,2,1,6,1,2,9,"Scenario #3, Treatment",Democrat,Florida,Other,1,0,0
+2,4,1,3,1,3,3,3,3,3,3,3,3,3,3,1,5,8,9,2,1,Control Scenario,Other,Alabama,Red,0,0,0
+2,4,3,2,1,2,2,2,2,2,2,4,4,2,2,3,1,4,1,2,43,"Scenario #6, Treatment",Democrat,Texas,Other,1,0,0
+2,7,1,2,1,3,3,3,3,3,3,3,3,3,3,2,3,4,9,2,38,"Scenario #4, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,5,6,2,1,5,5,4,4,4,4,4,2,4,4,4,3,7,9,2,10,"Scenario #4, Treatment",Independent,Georgia,Swing,0,0,1
+2,6,3,4,1,5,5,4,5,5,5,5,1,5,5,3,1,6,10,2,13,"Scenario #6, Treatment",Democrat,Illinois,Blue,1,0,0
+2,4,6,2,1,3,3,3,3,3,3,3,3,3,3,2,4,3,1,2,12,"Scenario #2, Treatment",Other,Idaho,Red,0,0,0
+2,4,3,5,1,3,3,3,3,3,3,3,3,3,3,2,1,2,9,2,32,"Scenario #4, Treatment",Democrat,New York,Blue,1,0,0
+1,4,6,6,1,4,4,4,4,3,4,3,2,3,4,6,1,2,1,2,43,"Scenario #1, Treatment",Democrat,Texas,Other,1,0,0
+2,4,6,6,1,2,2,4,2,2,2,3,3,3,3,5,1,1,1,2,9,"Scenario #2, Treatment",Democrat,Florida,Other,1,0,0
+2,4,6,5,1,4,4,3,4,4,3,4,2,4,4,3,1,5,1,2,36,Control Scenario,Democrat,Oklahoma,Red,1,0,0
+2,3,6,4,1,4,3,4,3,3,3,4,4,3,4,4,1,3,2,2,38,"Scenario #6, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+2,4,6,2,1,3,3,3,3,3,3,3,3,3,3,2,1,2,8,2,17,"Scenario #5, Treatment",Democrat,Kentucky,Red,1,0,0
+2,2,6,2,1,5,4,2,3,4,4,4,2,4,2,6,1,3,9,2,20,"Scenario #3, Treatment",Democrat,Maryland,Blue,1,0,0
+2,3,6,3,1,4,4,4,4,4,4,4,2,4,4,3,1,4,4,2,33,Control Scenario,Democrat,North Carolina,Swing,1,0,0
+2,3,6,6,1,2,3,3,2,3,3,3,4,2,3,4,2,4,2,2,49,"Scenario #5, Treatment",Republican,Wisconsin,Swing,0,1,0
+2,6,6,2,1,4,4,3,3,4,4,2,2,4,3,3,3,5,1,2,42,"Scenario #1, Treatment",Independent,Tennessee,Red,0,0,1
+2,6,6,3,1,3,3,1,3,4,4,4,2,3,4,2,1,4,1,2,9,"Scenario #3, Treatment",Democrat,Florida,Other,1,0,0
+2,4,3,2,1,5,5,5,5,5,5,5,1,5,5,4,1,4,9,2,47,"Scenario #1, Treatment",Democrat,Washington,Blue,1,0,0
+2,3,2,3,1,4,4,5,5,5,5,5,1,5,5,6,3,7,3,1,1,Control Scenario,Independent,Alabama,Red,0,0,1
+2,5,6,3,1,2,2,4,3,4,4,4,2,4,4,4,1,3,1,2,35,"Scenario #4, Treatment",Democrat,Ohio,Other,1,0,0
+2,4,6,1,1,3,3,4,3,3,3,3,3,3,3,1,5,8,1,2,5,"Scenario #6, Treatment",Other,California,Blue,0,0,0
+2,3,6,4,1,4,4,4,5,4,4,4,2,5,4,2,3,5,1,2,40,Control Scenario,Independent,South Carolina,Red,0,0,1
+2,5,6,6,1,4,4,4,3,3,4,3,2,3,3,3,1,1,1,2,8,"Scenario #4, Treatment",Democrat,Delaware,Blue,1,0,0
+2,6,6,2,1,3,3,3,3,3,3,3,3,3,3,6,3,4,2,2,30,"Scenario #1, Treatment",Independent,New Jersey,Blue,0,0,1
+2,3,3,3,1,3,3,3,3,3,3,3,3,3,3,2,2,4,3,2,43,Control Scenario,Republican,Texas,Other,0,1,0
+2,6,6,4,1,4,4,2,2,4,3,4,2,4,4,3,3,7,1,2,46,"Scenario #6, Treatment",Independent,Virginia,Other,0,0,1
+2,3,3,6,1,5,4,5,5,4,5,5,3,5,4,6,1,1,3,2,21,"Scenario #5, Treatment",Democrat,Massachusetts,Blue,1,0,0
+2,5,6,3,1,4,4,4,4,4,4,4,2,4,4,3,2,4,3,2,28,"Scenario #6, Treatment",Republican,Nevada,Swing,0,1,0
+1,3,1,4,1,4,4,5,5,3,3,4,3,4,3,3,3,2,2,1,9,"Scenario #1, Treatment",Independent,Florida,Other,0,0,1
+2,6,6,2,1,4,3,4,3,4,4,4,1,4,4,2,1,3,2,2,32,"Scenario #6, Treatment",Democrat,New York,Blue,1,0,0
+2,5,6,2,1,2,2,3,3,4,1,3,1,3,4,3,3,7,1,2,35,"Scenario #3, Treatment",Independent,Ohio,Other,0,0,1
+2,4,6,2,1,4,4,4,3,4,4,4,2,3,3,2,1,7,2,2,9,"Scenario #3, Treatment",Democrat,Florida,Other,1,0,0
+1,4,6,3,1,4,4,4,2,4,4,4,2,4,4,2,3,5,10,2,16,"Scenario #5, Treatment",Independent,Kansas,Red,0,0,1
+1,5,6,5,1,1,1,1,1,2,1,2,5,2,1,6,2,4,1,1,42,"Scenario #3, Treatment",Republican,Tennessee,Red,0,1,0
+1,3,3,2,1,4,2,4,4,3,4,5,2,2,4,1,2,7,9,2,9,"Scenario #2, Treatment",Republican,Florida,Other,0,1,0
+1,5,6,3,1,3,3,2,1,2,2,2,3,4,2,3,2,1,8,2,9,"Scenario #3, Treatment",Republican,Florida,Other,0,1,0
+2,3,6,2,1,4,4,3,3,3,3,3,3,3,3,3,2,6,10,2,46,"Scenario #2, Treatment",Republican,Virginia,Other,0,1,0
+2,4,6,3,1,1,1,3,3,2,2,2,5,5,4,3,2,4,9,2,22,"Scenario #2, Treatment",Republican,Michigan,Swing,0,1,0
+2,3,6,4,1,4,3,2,2,4,4,3,3,4,3,4,1,4,9,2,17,"Scenario #5, Treatment",Democrat,Kentucky,Red,1,0,0
+2,6,6,3,1,3,3,5,1,1,1,3,1,4,4,3,3,7,1,2,17,Control Scenario,Independent,Kentucky,Red,0,0,1
+2,3,3,3,1,3,3,5,3,3,3,3,2,4,4,3,2,8,9,2,32,"Scenario #4, Treatment",Republican,New York,Blue,0,1,0
+2,5,6,3,1,4,4,4,2,4,5,4,2,4,4,4,3,5,1,2,10,"Scenario #2, Treatment",Independent,Georgia,Swing,0,0,1
+2,5,6,3,1,4,4,4,4,4,4,4,2,4,4,6,3,4,3,2,36,"Scenario #1, Treatment",Independent,Oklahoma,Red,0,0,1
+2,3,3,1,1,4,4,4,4,4,4,4,2,3,4,2,1,4,3,2,43,"Scenario #1, Treatment",Democrat,Texas,Other,1,0,0
+1,4,3,2,1,4,4,3,4,3,3,4,3,3,3,2,1,7,3,2,10,"Scenario #3, Treatment",Democrat,Georgia,Swing,1,0,0
+2,3,2,5,1,3,3,3,3,3,3,3,3,3,3,3,1,6,1,2,13,"Scenario #6, Treatment",Democrat,Illinois,Blue,1,0,0
+1,4,6,4,1,4,4,4,5,4,5,5,3,4,4,6,3,5,2,2,21,"Scenario #1, Treatment",Independent,Massachusetts,Blue,0,0,1
+2,4,6,4,1,3,3,2,1,3,2,3,4,2,5,3,2,4,2,2,14,"Scenario #5, Treatment",Republican,Indiana,Other,0,1,0
+2,5,6,3,1,4,4,2,4,4,4,4,2,4,4,3,1,3,1,2,22,"Scenario #2, Treatment",Democrat,Michigan,Swing,1,0,0
+2,3,6,3,1,4,4,4,3,4,4,2,3,4,4,4,1,2,1,2,17,"Scenario #2, Treatment",Democrat,Kentucky,Red,1,0,0
+2,3,3,3,1,4,4,4,4,4,4,4,2,4,4,4,1,1,3,2,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+2,4,2,5,1,4,5,5,5,4,5,5,1,4,5,3,1,1,5,1,43,"Scenario #1, Treatment",Democrat,Texas,Other,1,0,0
+1,3,3,5,1,5,5,4,5,4,5,3,2,5,5,2,1,4,1,1,10,"Scenario #3, Treatment",Democrat,Georgia,Swing,1,0,0
+2,7,6,6,1,3,3,2,3,3,3,3,2,4,4,6,1,4,1,2,32,"Scenario #5, Treatment",Democrat,New York,Blue,1,0,0
+2,3,6,3,1,3,4,2,4,4,3,4,2,4,5,3,1,3,9,2,14,"Scenario #6, Treatment",Democrat,Indiana,Other,1,0,0
+2,4,2,4,1,4,4,4,4,4,4,3,2,4,4,3,1,4,2,2,47,"Scenario #4, Treatment",Democrat,Washington,Blue,1,0,0
+1,5,3,5,1,4,5,5,5,5,5,5,2,5,5,2,1,1,1,1,46,"Scenario #5, Treatment",Democrat,Virginia,Other,1,0,0
+2,3,6,2,1,5,4,5,5,5,4,4,1,5,4,2,2,2,9,2,13,"Scenario #3, Treatment",Republican,Illinois,Blue,0,1,0
+2,4,6,4,1,4,3,4,3,4,3,5,2,5,4,5,3,7,1,2,22,"Scenario #6, Treatment",Independent,Michigan,Swing,0,0,1
+2,4,6,5,1,3,3,3,3,3,4,3,2,2,3,6,2,3,9,1,6,"Scenario #6, Treatment",Republican,Colorado,Other,0,1,0
+1,4,6,4,1,5,5,5,5,5,5,5,1,5,5,3,1,4,2,1,13,"Scenario #2, Treatment",Democrat,Illinois,Blue,1,0,0
+2,4,6,3,1,5,4,4,2,3,2,5,2,1,4,3,3,6,1,2,35,"Scenario #6, Treatment",Independent,Ohio,Other,0,0,1
+2,4,3,2,1,3,3,1,2,4,2,2,5,5,3,2,1,1,3,2,43,"Scenario #4, Treatment",Democrat,Texas,Other,1,0,0
+2,5,6,2,1,4,4,4,2,4,3,4,2,5,4,4,3,6,1,2,4,"Scenario #6, Treatment",Independent,Arkansas,Red,0,0,1
+2,5,6,2,1,4,3,2,4,4,2,2,3,4,4,1,3,2,9,2,40,Control Scenario,Independent,South Carolina,Red,0,0,1
+2,3,3,4,1,2,2,3,1,3,1,5,1,5,4,3,1,4,1,2,30,"Scenario #5, Treatment",Democrat,New Jersey,Blue,1,0,0
+1,7,6,5,1,3,3,3,2,3,3,4,2,3,4,2,1,1,1,1,38,"Scenario #4, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+2,2,6,3,1,1,1,1,2,2,3,1,3,1,3,5,2,6,2,2,38,"Scenario #4, Treatment",Republican,Pennsylvania,Swing,0,1,0
+2,4,6,5,1,5,5,5,5,5,5,5,2,5,5,4,3,4,2,2,35,"Scenario #4, Treatment",Independent,Ohio,Other,0,0,1
+2,5,6,1,1,4,4,4,2,2,4,3,1,4,4,1,2,5,3,2,48,Control Scenario,Republican,West Virginia,Red,0,1,0
+1,3,6,1,1,5,4,5,5,4,5,4,1,4,5,1,3,1,9,2,14,"Scenario #2, Treatment",Independent,Indiana,Other,0,0,1
+2,3,6,4,1,5,5,4,5,5,5,5,1,5,5,3,3,7,3,2,33,"Scenario #4, Treatment",Independent,North Carolina,Swing,0,0,1
+2,7,6,2,1,3,3,2,2,3,2,3,2,2,4,3,1,4,2,2,14,Control Scenario,Democrat,Indiana,Other,1,0,0
+2,4,6,4,1,4,4,4,2,4,4,4,2,3,4,4,1,2,2,2,5,"Scenario #5, Treatment",Democrat,California,Blue,1,0,0
+2,3,3,1,1,5,5,5,5,5,4,5,1,4,5,1,1,1,3,2,35,"Scenario #4, Treatment",Democrat,Ohio,Other,1,0,0
+1,6,6,5,1,3,2,4,4,4,4,4,3,5,4,3,3,7,10,1,16,"Scenario #2, Treatment",Independent,Kansas,Red,0,0,1
+2,5,6,5,1,4,4,4,3,4,3,4,2,4,3,2,2,4,1,2,32,"Scenario #4, Treatment",Republican,New York,Blue,0,1,0
+1,3,3,2,1,4,4,4,4,4,3,3,2,4,4,4,1,4,10,2,18,Control Scenario,Democrat,Louisiana,Red,1,0,0
+2,4,3,5,1,2,2,4,2,3,4,4,4,5,5,4,1,3,3,2,18,"Scenario #5, Treatment",Democrat,Louisiana,Red,1,0,0
+2,4,6,4,1,4,4,3,4,4,3,4,2,3,4,3,3,5,1,2,17,"Scenario #4, Treatment",Independent,Kentucky,Red,0,0,1
+2,4,6,2,1,5,5,4,4,5,5,5,1,5,5,1,4,1,9,2,38,"Scenario #5, Treatment",Other,Pennsylvania,Swing,0,0,0
+2,3,2,5,1,2,2,2,2,2,2,3,3,3,3,5,3,4,2,2,20,"Scenario #4, Treatment",Independent,Maryland,Blue,0,0,1
+1,3,6,5,1,4,3,5,4,4,2,5,4,5,4,3,1,2,9,2,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+2,4,3,2,1,4,4,4,4,4,3,3,2,4,3,3,1,4,2,2,22,"Scenario #6, Treatment",Democrat,Michigan,Swing,1,0,0
+2,3,6,3,1,4,4,4,3,3,3,3,3,3,3,3,3,7,10,2,1,"Scenario #3, Treatment",Independent,Alabama,Red,0,0,1
+2,5,2,3,1,1,2,2,3,2,2,3,3,3,3,1,2,4,2,2,14,"Scenario #2, Treatment",Republican,Indiana,Other,0,1,0
+2,3,3,5,1,5,4,4,5,5,5,5,2,4,4,4,1,4,2,2,9,"Scenario #1, Treatment",Democrat,Florida,Other,1,0,0
+1,3,6,3,1,5,5,5,5,5,5,4,2,5,5,5,1,4,3,2,5,"Scenario #5, Treatment",Democrat,California,Blue,1,0,0
+1,7,6,5,1,3,3,3,4,5,4,5,1,3,5,3,3,5,1,1,35,"Scenario #5, Treatment",Independent,Ohio,Other,0,0,1
+2,3,6,3,1,4,4,4,5,5,5,5,1,5,4,6,1,2,8,2,43,"Scenario #3, Treatment",Democrat,Texas,Other,1,0,0
+1,3,6,5,1,5,4,3,4,5,4,5,3,4,5,5,1,3,2,2,9,"Scenario #1, Treatment",Democrat,Florida,Other,1,0,0
+1,3,2,2,1,5,5,5,5,5,4,4,1,5,5,3,2,4,2,1,37,"Scenario #2, Treatment",Republican,Oregon,Blue,0,1,0
+2,2,6,2,1,5,5,5,5,3,4,4,2,5,4,4,3,5,9,2,43,"Scenario #2, Treatment",Independent,Texas,Other,0,0,1
+2,5,6,2,1,4,4,4,3,4,4,5,2,4,5,3,1,2,9,2,40,Control Scenario,Democrat,South Carolina,Red,1,0,0
+2,4,6,6,1,4,3,4,4,3,4,3,2,4,3,3,3,4,9,2,1,"Scenario #2, Treatment",Independent,Alabama,Red,0,0,1
+1,3,6,5,1,4,5,4,4,4,5,4,1,4,5,1,1,3,2,2,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+2,5,6,2,1,5,5,5,5,5,5,5,1,5,5,1,3,6,3,2,14,"Scenario #6, Treatment",Independent,Indiana,Other,0,0,1
+2,4,6,3,1,4,4,4,3,3,3,3,2,3,4,5,1,1,1,2,22,"Scenario #3, Treatment",Democrat,Michigan,Swing,1,0,0
+1,4,6,5,1,2,2,4,4,4,4,4,2,4,4,3,3,5,1,1,43,"Scenario #6, Treatment",Independent,Texas,Other,0,0,1
+2,3,6,4,1,2,3,3,2,4,3,4,2,5,4,4,5,2,9,2,46,"Scenario #2, Treatment",Other,Virginia,Other,0,0,0
+2,3,6,5,1,4,4,4,3,4,4,4,2,4,4,3,4,2,9,2,22,"Scenario #2, Treatment",Other,Michigan,Swing,0,0,0
+2,4,3,3,1,4,4,4,2,4,5,4,2,5,5,3,2,4,1,2,10,Control Scenario,Republican,Georgia,Swing,0,1,0
+1,3,3,3,1,4,3,5,5,5,5,5,2,5,4,4,2,2,3,1,32,"Scenario #5, Treatment",Republican,New York,Blue,0,1,0
+1,3,6,3,1,4,3,4,4,4,4,4,2,4,4,4,3,7,2,2,10,"Scenario #4, Treatment",Independent,Georgia,Swing,0,0,1
+1,3,6,5,1,5,5,4,5,4,4,5,2,3,5,3,1,4,5,2,35,"Scenario #1, Treatment",Democrat,Ohio,Other,1,0,0
+1,4,3,3,1,5,5,4,4,4,4,4,3,3,3,3,2,2,10,2,46,Control Scenario,Republican,Virginia,Other,0,1,0
+2,2,3,3,1,5,5,5,5,5,5,5,1,5,5,3,1,2,3,2,43,Control Scenario,Democrat,Texas,Other,1,0,0
+2,3,6,2,1,3,3,4,3,3,3,3,2,3,3,2,4,8,9,2,26,"Scenario #4, Treatment",Other,Montana,Red,0,0,0
+2,4,6,2,1,3,3,3,3,3,3,3,3,3,3,2,3,4,10,2,22,Control Scenario,Independent,Michigan,Swing,0,0,1
+2,3,6,5,1,2,3,4,1,3,2,3,4,4,3,2,1,3,2,2,38,"Scenario #1, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+2,3,6,6,2,5,4,3,5,4,5,5,2,5,4,5,1,6,9,2,9,"Scenario #2, Treatment",Democrat,Florida,Other,1,0,0
+2,4,6,3,1,5,5,5,4,5,5,4,2,5,4,4,2,6,3,2,14,"Scenario #3, Treatment",Republican,Indiana,Other,0,1,0
+2,7,6,3,1,1,1,2,3,3,4,3,2,4,4,4,1,5,2,2,20,"Scenario #3, Treatment",Democrat,Maryland,Blue,1,0,0
+2,6,6,2,1,3,3,4,4,3,3,3,2,4,4,3,3,4,2,2,39,"Scenario #4, Treatment",Independent,Rhode Island,Blue,0,0,1
+1,4,6,3,1,4,4,4,4,4,4,4,2,4,4,2,2,4,9,2,48,"Scenario #5, Treatment",Republican,West Virginia,Red,0,1,0
+2,4,6,2,1,3,3,3,2,3,3,3,3,3,3,3,2,6,10,2,38,"Scenario #2, Treatment",Republican,Pennsylvania,Swing,0,1,0
+1,6,3,4,1,5,5,5,5,5,5,5,1,5,5,4,1,2,1,1,3,"Scenario #5, Treatment",Democrat,Arizona,Swing,1,0,0
+2,3,6,2,1,4,4,4,3,2,2,2,4,1,1,4,3,5,3,2,14,"Scenario #1, Treatment",Independent,Indiana,Other,0,0,1
+1,3,6,5,1,4,4,5,5,2,3,3,5,3,4,4,1,2,10,2,38,"Scenario #1, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+2,5,6,3,1,4,4,4,4,4,4,4,2,4,4,4,3,7,3,2,46,"Scenario #6, Treatment",Independent,Virginia,Other,0,0,1
+1,2,3,3,1,3,3,3,3,3,3,3,3,3,3,5,2,4,9,2,32,"Scenario #3, Treatment",Republican,New York,Blue,0,1,0
+2,3,6,6,1,2,1,2,1,1,3,3,3,1,1,4,1,1,9,2,38,"Scenario #2, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,3,3,2,1,3,3,5,4,3,2,5,2,3,4,1,1,6,9,2,32,Control Scenario,Democrat,New York,Blue,1,0,0
+2,4,6,2,1,3,3,4,3,4,3,4,2,4,4,4,2,4,3,2,9,"Scenario #6, Treatment",Republican,Florida,Other,0,1,0
+1,3,6,5,1,4,4,2,3,4,5,3,2,4,5,6,2,4,9,2,8,"Scenario #5, Treatment",Republican,Delaware,Blue,0,1,0
+1,3,3,5,1,5,4,5,4,5,4,5,2,5,4,3,1,2,5,2,46,"Scenario #3, Treatment",Democrat,Virginia,Other,1,0,0
+2,4,6,4,1,4,3,3,4,4,5,4,2,4,5,1,2,2,1,1,25,"Scenario #5, Treatment",Republican,Missouri,Red,0,1,0
+2,6,6,3,1,3,3,3,3,3,3,3,2,3,3,3,3,4,1,2,17,"Scenario #5, Treatment",Independent,Kentucky,Red,0,0,1
+1,4,3,5,1,4,4,4,3,4,4,4,2,4,5,3,2,4,9,2,35,"Scenario #1, Treatment",Republican,Ohio,Other,0,1,0
+1,5,3,3,1,2,3,4,2,3,3,3,3,3,3,3,5,4,9,1,25,"Scenario #5, Treatment",Other,Missouri,Red,0,0,0
+2,3,3,3,1,3,4,3,3,3,3,3,3,3,3,1,4,4,3,2,40,"Scenario #2, Treatment",Other,South Carolina,Red,0,0,0
+1,2,3,2,1,3,3,3,3,3,3,3,3,3,3,1,2,4,8,2,22,"Scenario #3, Treatment",Republican,Michigan,Swing,0,1,0
+1,4,3,2,1,4,5,5,1,4,3,2,3,5,2,5,2,4,3,2,40,Control Scenario,Republican,South Carolina,Red,0,1,0
+1,3,6,5,1,4,4,4,4,4,4,4,2,4,4,6,2,2,1,2,43,"Scenario #5, Treatment",Republican,Texas,Other,0,1,0
+1,3,3,2,1,5,5,5,5,5,5,5,1,5,5,4,1,1,10,2,9,"Scenario #2, Treatment",Democrat,Florida,Other,1,0,0
+1,4,6,4,1,4,4,5,5,4,4,4,2,4,4,5,2,4,10,1,35,"Scenario #4, Treatment",Republican,Ohio,Other,0,1,0
+1,5,3,3,1,4,4,4,4,4,4,4,2,4,4,3,1,6,1,1,43,"Scenario #2, Treatment",Democrat,Texas,Other,1,0,0
+1,4,6,6,1,5,5,5,5,3,4,5,1,5,5,6,3,1,4,1,32,"Scenario #3, Treatment",Independent,New York,Blue,0,0,1
+1,3,6,5,1,2,2,4,2,3,1,4,1,5,4,4,3,5,2,2,1,"Scenario #3, Treatment",Independent,Alabama,Red,0,0,1
+2,5,6,4,1,4,4,4,4,4,4,4,2,4,4,3,1,4,9,2,3,"Scenario #1, Treatment",Democrat,Arizona,Swing,1,0,0
+2,4,6,2,1,2,2,4,4,4,1,4,3,2,3,6,3,4,1,2,13,"Scenario #3, Treatment",Independent,Illinois,Blue,0,0,1
+2,4,6,2,1,1,1,3,1,1,1,1,5,1,1,3,3,6,1,2,9,"Scenario #6, Treatment",Independent,Florida,Other,0,0,1
+2,5,6,2,1,3,2,3,4,3,4,3,3,4,4,2,2,4,3,2,17,"Scenario #4, Treatment",Republican,Kentucky,Red,0,1,0
+2,5,6,3,1,4,4,4,4,4,4,4,2,4,4,3,1,2,9,2,43,"Scenario #3, Treatment",Democrat,Texas,Other,1,0,0
+2,5,3,3,1,1,1,2,1,1,1,1,3,3,1,4,1,4,3,2,22,"Scenario #6, Treatment",Democrat,Michigan,Swing,1,0,0
+2,7,6,4,1,4,4,2,4,3,4,4,2,3,4,4,3,7,2,2,32,Control Scenario,Independent,New York,Blue,0,0,1
+2,5,3,4,1,5,4,5,4,4,4,4,2,5,5,3,4,8,10,2,20,"Scenario #4, Treatment",Other,Maryland,Blue,0,0,0
+2,4,6,5,1,5,5,5,5,5,5,5,1,5,4,5,3,4,10,2,35,"Scenario #1, Treatment",Independent,Ohio,Other,0,0,1
+2,3,6,2,1,3,3,1,4,4,5,5,1,5,5,4,2,7,3,2,48,"Scenario #6, Treatment",Republican,West Virginia,Red,0,1,0
+3,3,6,2,1,3,2,3,2,3,2,2,4,3,4,1,2,4,9,2,17,Control Scenario,Republican,Kentucky,Red,0,1,0
+1,3,6,6,1,5,4,5,4,5,4,5,2,5,4,6,1,3,1,1,32,"Scenario #4, Treatment",Democrat,New York,Blue,1,0,0
+2,6,6,4,1,3,3,2,3,3,3,4,3,4,4,5,2,5,3,2,49,"Scenario #6, Treatment",Republican,Wisconsin,Swing,0,1,0
+2,6,6,2,1,4,4,4,2,4,4,3,2,4,4,2,1,2,10,2,42,"Scenario #6, Treatment",Democrat,Tennessee,Red,1,0,0
+1,6,6,5,1,4,3,2,2,4,4,4,4,5,4,5,3,6,2,2,35,Control Scenario,Independent,Ohio,Other,0,0,1
+2,7,6,1,1,3,3,3,3,3,3,3,3,3,3,5,1,3,1,2,43,"Scenario #5, Treatment",Democrat,Texas,Other,1,0,0
+2,3,4,4,1,4,4,4,4,4,4,4,2,4,4,4,1,3,2,1,43,"Scenario #2, Treatment",Democrat,Texas,Other,1,0,0
+2,3,6,2,1,5,5,2,4,4,5,4,2,4,4,4,1,3,2,2,49,Control Scenario,Democrat,Wisconsin,Swing,1,0,0
+1,2,3,2,1,5,5,5,5,5,4,4,1,5,5,2,2,1,3,2,33,Control Scenario,Republican,North Carolina,Swing,0,1,0
+1,4,3,5,1,5,4,5,4,5,4,4,2,4,4,4,3,5,1,2,20,"Scenario #1, Treatment",Independent,Maryland,Blue,0,0,1
+2,6,6,3,1,1,1,5,1,5,5,5,1,5,5,3,3,7,1,2,43,"Scenario #4, Treatment",Independent,Texas,Other,0,0,1
+1,2,3,3,1,4,4,4,4,4,3,4,1,4,4,1,1,2,3,2,33,"Scenario #5, Treatment",Democrat,North Carolina,Swing,1,0,0
+2,6,6,3,1,3,3,3,4,5,3,5,3,5,5,3,1,2,2,2,49,"Scenario #3, Treatment",Democrat,Wisconsin,Swing,1,0,0
+2,3,6,5,1,4,3,4,3,3,4,3,2,5,4,5,3,2,4,2,5,"Scenario #4, Treatment",Independent,California,Blue,0,0,1
+2,4,4,5,1,5,5,5,5,5,5,5,1,5,5,1,1,7,3,1,10,"Scenario #2, Treatment",Democrat,Georgia,Swing,1,0,0
+1,4,6,3,1,4,4,4,4,4,4,4,2,4,4,3,1,2,9,2,25,"Scenario #6, Treatment",Democrat,Missouri,Red,1,0,0
+1,3,6,2,1,3,4,5,5,4,4,4,3,4,4,4,3,4,9,2,38,"Scenario #2, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,4,6,5,1,4,4,4,4,4,4,4,2,4,4,5,2,4,1,2,38,"Scenario #4, Treatment",Republican,Pennsylvania,Swing,0,1,0
+1,4,6,3,1,4,3,4,4,4,3,4,2,2,3,4,3,4,1,1,1,"Scenario #1, Treatment",Independent,Alabama,Red,0,0,1
+2,6,3,5,1,4,4,4,4,4,4,5,2,4,5,2,2,4,9,2,40,"Scenario #5, Treatment",Republican,South Carolina,Red,0,1,0
+1,4,3,4,1,5,5,5,5,5,5,5,1,5,5,6,1,1,3,2,10,"Scenario #3, Treatment",Democrat,Georgia,Swing,1,0,0
+2,5,6,5,1,4,3,4,4,3,4,3,3,3,4,3,1,1,9,2,31,Control Scenario,Democrat,New Mexico,Other,1,0,0
+2,3,6,2,1,4,5,4,5,5,5,4,2,5,4,3,3,7,9,2,35,"Scenario #5, Treatment",Independent,Ohio,Other,0,0,1
+1,6,6,6,1,3,3,3,3,2,3,2,3,4,4,2,2,1,9,2,32,Control Scenario,Republican,New York,Blue,0,1,0
+1,3,6,6,1,3,3,2,4,1,5,1,5,4,4,6,2,4,1,2,6,"Scenario #6, Treatment",Republican,Colorado,Other,0,1,0
+2,6,6,4,1,3,2,3,3,4,4,3,1,4,4,3,3,6,1,2,43,"Scenario #6, Treatment",Independent,Texas,Other,0,0,1
+2,5,6,3,1,4,4,4,4,4,4,4,4,4,4,3,1,8,3,2,9,"Scenario #5, Treatment",Democrat,Florida,Other,1,0,0
+1,4,6,6,1,4,5,5,5,5,5,5,3,4,4,5,1,2,4,2,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+2,4,6,2,1,5,5,5,5,5,5,5,1,5,5,4,1,1,3,2,5,"Scenario #6, Treatment",Democrat,California,Blue,1,0,0
+1,5,6,4,1,4,5,5,4,5,4,3,4,4,3,6,1,4,1,1,48,Control Scenario,Democrat,West Virginia,Red,1,0,0
+1,3,6,3,1,4,4,3,3,4,3,3,3,3,3,2,4,4,9,2,10,Control Scenario,Other,Georgia,Swing,0,0,0
+1,5,6,2,1,4,4,2,2,3,3,3,3,3,4,3,3,7,2,1,17,Control Scenario,Independent,Kentucky,Red,0,0,1
+1,3,6,4,1,1,1,5,1,1,2,1,5,1,2,2,3,6,2,2,17,"Scenario #1, Treatment",Independent,Kentucky,Red,0,0,1
+1,6,6,2,1,2,2,4,4,4,5,4,2,5,5,2,3,5,9,2,18,"Scenario #2, Treatment",Independent,Louisiana,Red,0,0,1
+2,5,6,3,1,2,2,3,3,4,4,4,2,4,4,4,3,6,3,2,25,"Scenario #4, Treatment",Independent,Missouri,Red,0,0,1
+2,5,6,2,1,3,2,4,2,2,1,3,2,2,2,2,2,5,9,2,30,"Scenario #1, Treatment",Republican,New Jersey,Blue,0,1,0
+1,5,6,3,1,4,4,4,5,5,4,4,1,4,4,6,1,3,2,2,9,"Scenario #1, Treatment",Democrat,Florida,Other,1,0,0
+1,2,6,2,1,4,5,5,5,5,4,5,1,4,5,3,3,4,2,2,21,"Scenario #5, Treatment",Independent,Massachusetts,Blue,0,0,1
+2,6,6,1,1,3,3,3,3,3,3,3,3,3,3,1,2,4,1,2,14,"Scenario #2, Treatment",Republican,Indiana,Other,0,1,0
+1,4,6,5,1,2,1,1,1,2,2,2,5,1,3,4,2,1,8,2,37,"Scenario #1, Treatment",Republican,Oregon,Blue,0,1,0
+2,6,3,1,1,2,2,4,4,4,3,4,3,4,4,2,1,4,1,2,13,"Scenario #2, Treatment",Democrat,Illinois,Blue,1,0,0
+1,2,3,3,1,4,4,4,4,5,4,4,2,5,5,2,1,2,2,2,13,"Scenario #1, Treatment",Democrat,Illinois,Blue,1,0,0
+2,2,6,3,1,4,3,5,2,3,3,4,3,3,4,3,2,4,9,2,43,Control Scenario,Republican,Texas,Other,0,1,0
+2,3,6,3,1,4,4,4,4,4,4,4,2,3,3,1,4,4,9,2,9,Control Scenario,Other,Florida,Other,0,0,0
+2,5,6,3,1,4,4,3,4,4,4,4,1,4,4,3,1,4,10,2,9,"Scenario #3, Treatment",Democrat,Florida,Other,1,0,0
+1,5,6,4,1,4,4,4,3,4,4,4,2,4,4,4,2,4,2,2,43,"Scenario #1, Treatment",Republican,Texas,Other,0,1,0
+1,2,2,4,1,4,4,2,4,4,4,4,2,4,4,3,3,6,1,2,35,"Scenario #4, Treatment",Independent,Ohio,Other,0,0,1
+1,3,6,2,1,3,3,2,3,3,3,4,2,4,4,6,2,8,10,2,43,"Scenario #3, Treatment",Republican,Texas,Other,0,1,0
+2,4,6,2,1,2,2,2,3,3,3,3,3,3,3,3,3,4,9,2,9,"Scenario #2, Treatment",Independent,Florida,Other,0,0,1
+2,6,6,1,1,5,5,3,5,1,5,5,1,5,5,2,4,4,1,2,50,"Scenario #3, Treatment",Other,Wyoming,Red,0,0,0
+2,3,6,2,1,4,4,4,3,3,4,4,3,3,3,2,5,8,3,2,33,Control Scenario,Other,North Carolina,Swing,0,0,0
+2,6,6,5,1,1,1,2,3,3,2,2,2,4,4,4,3,5,2,2,9,"Scenario #1, Treatment",Independent,Florida,Other,0,0,1
+1,3,2,2,1,2,5,4,4,2,4,5,4,3,3,4,1,2,2,1,25,"Scenario #5, Treatment",Democrat,Missouri,Red,1,0,0
+1,3,6,3,1,3,3,4,4,3,3,3,3,3,3,3,4,7,10,2,37,"Scenario #5, Treatment",Other,Oregon,Blue,0,0,0
+2,3,1,4,1,4,4,4,3,4,3,4,2,4,4,3,3,7,3,2,16,"Scenario #6, Treatment",Independent,Kansas,Red,0,0,1
+1,4,6,2,1,4,3,4,4,4,5,4,2,4,5,3,3,4,1,2,35,"Scenario #3, Treatment",Independent,Ohio,Other,0,0,1
+2,5,6,2,1,1,1,5,3,3,3,2,2,4,1,6,3,6,2,2,38,"Scenario #1, Treatment",Independent,Pennsylvania,Swing,0,0,1
+2,7,6,5,1,2,3,2,3,3,3,4,3,4,4,2,3,4,1,2,22,"Scenario #4, Treatment",Independent,Michigan,Swing,0,0,1
+1,2,4,2,1,5,5,4,5,5,5,5,1,5,4,4,1,1,3,2,43,"Scenario #2, Treatment",Democrat,Texas,Other,1,0,0
+2,3,4,2,1,4,4,5,4,3,3,3,3,4,4,2,2,8,10,1,31,"Scenario #4, Treatment",Republican,New Mexico,Other,0,1,0
+1,2,6,4,1,5,5,5,4,4,5,5,1,5,3,1,3,7,1,2,43,"Scenario #6, Treatment",Independent,Texas,Other,0,0,1
+1,7,6,4,1,4,3,2,4,2,3,4,1,4,5,4,2,4,9,2,9,"Scenario #6, Treatment",Republican,Florida,Other,0,1,0
+1,4,3,5,1,3,5,4,4,5,4,3,1,4,3,6,1,1,9,2,24,"Scenario #4, Treatment",Democrat,Mississippi,Red,1,0,0
+1,2,6,2,1,4,3,2,4,4,1,1,4,3,4,2,1,2,1,2,14,"Scenario #5, Treatment",Democrat,Indiana,Other,1,0,0
+1,5,6,3,1,2,2,2,3,4,3,3,4,3,4,4,1,3,8,2,44,"Scenario #6, Treatment",Democrat,Utah,Red,1,0,0
+2,4,6,3,1,4,4,3,3,3,4,4,3,4,4,3,2,3,9,2,23,"Scenario #3, Treatment",Republican,Minnesota,Other,0,1,0
+1,6,6,4,1,2,2,1,2,2,2,2,4,2,2,3,3,4,4,2,9,"Scenario #4, Treatment",Independent,Florida,Other,0,0,1
+1,4,3,3,1,4,4,4,4,5,5,5,1,5,4,4,1,2,10,2,42,"Scenario #3, Treatment",Democrat,Tennessee,Red,1,0,0
+2,7,6,6,1,5,4,4,5,5,4,5,2,4,5,4,2,4,1,2,5,"Scenario #3, Treatment",Republican,California,Blue,0,1,0
+1,4,6,2,1,4,4,4,4,4,4,4,2,4,4,3,3,4,2,1,18,"Scenario #1, Treatment",Independent,Louisiana,Red,0,0,1
+2,5,6,1,1,4,4,3,3,3,3,3,3,3,3,3,3,6,3,2,10,"Scenario #1, Treatment",Independent,Georgia,Swing,0,0,1
+1,3,6,3,1,4,4,5,4,5,5,4,3,5,5,3,3,6,9,2,9,"Scenario #5, Treatment",Independent,Florida,Other,0,0,1
+1,3,3,2,1,3,2,4,3,4,3,3,2,4,4,3,1,4,9,2,22,"Scenario #2, Treatment",Democrat,Michigan,Swing,1,0,0
+1,3,4,6,1,2,2,4,3,2,2,4,2,4,4,3,1,2,2,2,9,"Scenario #6, Treatment",Democrat,Florida,Other,1,0,0
+1,4,6,4,1,4,5,5,5,4,5,4,1,4,5,4,1,5,2,1,32,"Scenario #4, Treatment",Democrat,New York,Blue,1,0,0
+1,4,3,3,1,1,1,3,1,1,1,1,5,1,1,3,2,4,1,2,13,"Scenario #1, Treatment",Republican,Illinois,Blue,0,1,0
+1,4,6,2,1,4,4,4,3,3,3,3,3,3,3,3,2,1,3,2,31,"Scenario #2, Treatment",Republican,New Mexico,Other,0,1,0
+2,2,6,5,1,5,5,4,5,4,5,5,1,5,5,1,3,7,1,2,22,Control Scenario,Independent,Michigan,Swing,0,0,1
+2,5,6,3,1,1,1,1,3,5,3,5,2,2,4,4,3,4,2,2,38,"Scenario #3, Treatment",Independent,Pennsylvania,Swing,0,0,1
+2,3,6,2,1,1,1,3,3,4,4,5,3,1,3,1,3,7,3,2,43,"Scenario #5, Treatment",Independent,Texas,Other,0,0,1
+1,7,6,3,1,4,3,3,2,3,2,3,2,3,3,4,3,6,1,2,3,"Scenario #5, Treatment",Independent,Arizona,Swing,0,0,1
+1,2,6,4,1,3,3,4,3,4,5,4,3,3,4,3,1,3,9,2,13,"Scenario #5, Treatment",Democrat,Illinois,Blue,1,0,0
+1,4,3,4,1,4,4,4,5,5,4,4,2,4,5,3,3,6,5,1,33,Control Scenario,Independent,North Carolina,Swing,0,0,1
+1,5,6,3,1,4,4,4,4,4,5,4,1,4,5,5,3,6,2,2,9,"Scenario #2, Treatment",Independent,Florida,Other,0,0,1
+2,4,6,2,1,1,1,4,2,2,1,2,1,2,3,1,3,6,1,2,38,"Scenario #2, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,4,6,3,1,4,5,4,4,4,5,4,1,4,5,4,1,2,1,2,22,"Scenario #6, Treatment",Democrat,Michigan,Swing,1,0,0
+1,3,6,5,1,3,3,4,3,4,3,4,2,4,4,5,2,4,1,2,3,Control Scenario,Republican,Arizona,Swing,0,1,0
+2,6,6,3,1,5,5,5,5,5,5,5,1,5,5,2,2,4,1,2,43,"Scenario #2, Treatment",Republican,Texas,Other,0,1,0
+1,4,3,2,1,3,2,3,3,3,2,4,3,2,3,4,2,4,9,2,20,"Scenario #1, Treatment",Republican,Maryland,Blue,0,1,0
+2,6,6,2,1,3,3,4,2,2,4,4,2,4,4,5,2,3,2,2,21,"Scenario #6, Treatment",Republican,Massachusetts,Blue,0,1,0
+1,3,6,3,1,4,5,5,4,5,5,4,2,4,4,3,2,4,9,2,38,"Scenario #5, Treatment",Republican,Pennsylvania,Swing,0,1,0
+2,7,6,4,1,2,2,2,2,2,2,2,2,2,2,3,3,6,1,2,42,"Scenario #3, Treatment",Independent,Tennessee,Red,0,0,1
+2,5,6,3,1,3,2,4,4,4,4,4,3,4,4,3,1,4,9,1,22,"Scenario #5, Treatment",Democrat,Michigan,Swing,1,0,0
+1,6,6,2,1,2,2,4,4,4,2,4,2,4,4,3,3,6,1,2,14,"Scenario #6, Treatment",Independent,Indiana,Other,0,0,1
+2,4,6,4,1,4,4,4,2,3,3,3,2,4,4,4,4,4,3,2,4,"Scenario #3, Treatment",Other,Arkansas,Red,0,0,0
+1,3,6,3,1,2,2,5,2,2,2,3,3,3,3,1,2,4,9,2,22,"Scenario #5, Treatment",Republican,Michigan,Swing,0,1,0
+1,4,6,2,1,2,2,4,2,4,4,4,2,4,4,3,2,4,9,2,43,"Scenario #6, Treatment",Republican,Texas,Other,0,1,0
+2,3,6,5,2,4,5,4,4,4,3,4,2,3,4,4,1,4,5,2,13,Control Scenario,Democrat,Illinois,Blue,1,0,0
+2,5,6,5,1,5,5,3,3,4,3,3,3,4,3,6,3,5,3,2,40,Control Scenario,Independent,South Carolina,Red,0,0,1
+1,3,3,3,1,3,4,3,3,3,4,4,3,4,4,2,1,2,9,2,24,"Scenario #3, Treatment",Democrat,Mississippi,Red,1,0,0
+1,3,6,3,1,3,4,4,4,4,4,4,2,4,4,3,1,2,8,2,42,"Scenario #4, Treatment",Democrat,Tennessee,Red,1,0,0
+2,4,6,2,1,3,3,4,1,2,1,2,1,4,3,2,2,8,3,2,1,"Scenario #4, Treatment",Republican,Alabama,Red,0,1,0
+1,2,3,2,1,5,5,5,5,5,5,5,1,5,3,3,5,1,9,1,43,"Scenario #6, Treatment",Other,Texas,Other,0,0,0
+1,3,6,3,1,2,3,4,4,3,4,4,3,3,4,5,3,6,1,2,10,"Scenario #2, Treatment",Independent,Georgia,Swing,0,0,1
+2,7,6,2,1,2,2,2,2,4,2,4,3,3,4,2,2,4,10,2,17,"Scenario #2, Treatment",Republican,Kentucky,Red,0,1,0
+2,5,2,4,1,5,5,4,4,5,5,2,2,2,4,4,3,7,10,2,5,"Scenario #6, Treatment",Independent,California,Blue,0,0,1
+2,4,6,2,1,3,2,2,2,4,4,4,1,4,4,3,1,4,1,2,33,"Scenario #5, Treatment",Democrat,North Carolina,Swing,1,0,0
+1,5,6,5,1,4,4,4,3,4,4,4,2,4,4,6,3,7,1,2,40,"Scenario #4, Treatment",Independent,South Carolina,Red,0,0,1
+2,6,6,2,1,3,3,3,3,4,4,4,2,3,4,2,3,6,9,2,44,"Scenario #3, Treatment",Independent,Utah,Red,0,0,1
+1,3,2,5,1,3,3,2,3,3,4,3,3,3,4,4,2,4,10,1,49,"Scenario #2, Treatment",Republican,Wisconsin,Swing,0,1,0
+1,4,6,6,1,4,4,4,4,4,4,4,3,3,2,6,1,3,9,2,32,Control Scenario,Democrat,New York,Blue,1,0,0
+1,3,6,5,1,1,1,4,4,4,4,4,2,5,4,5,2,4,3,2,46,"Scenario #6, Treatment",Republican,Virginia,Other,0,1,0
+1,7,6,3,1,3,3,3,4,4,3,4,2,4,4,4,3,6,1,1,8,"Scenario #5, Treatment",Independent,Delaware,Blue,0,0,1
+2,7,6,6,1,2,2,3,4,4,3,4,4,5,5,3,2,5,3,2,44,"Scenario #4, Treatment",Republican,Utah,Red,0,1,0
+1,4,6,6,1,2,2,4,3,4,4,4,2,5,4,6,1,1,1,2,2,"Scenario #2, Treatment",Democrat,Alaska,Other,1,0,0
+1,4,3,2,1,5,5,4,3,4,4,3,2,4,2,3,1,4,3,2,16,"Scenario #2, Treatment",Democrat,Kansas,Red,1,0,0
+1,4,6,4,1,5,5,4,4,4,4,4,2,4,4,3,1,2,1,2,1,"Scenario #4, Treatment",Democrat,Alabama,Red,1,0,0
+2,7,6,4,1,4,2,4,2,5,5,4,1,5,5,6,3,4,2,2,38,"Scenario #6, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,7,6,5,1,2,2,3,4,4,3,2,4,4,4,6,3,5,1,2,5,"Scenario #3, Treatment",Independent,California,Blue,0,0,1
+1,5,6,2,1,5,4,4,4,4,4,4,3,3,4,4,3,4,2,2,49,"Scenario #2, Treatment",Independent,Wisconsin,Swing,0,0,1
+1,4,3,2,1,5,5,5,5,5,5,5,4,5,5,3,1,4,1,2,10,Control Scenario,Democrat,Georgia,Swing,1,0,0
+1,4,6,2,1,4,4,4,4,4,4,4,1,4,4,4,1,1,2,2,13,"Scenario #3, Treatment",Democrat,Illinois,Blue,1,0,0
+1,2,6,5,1,5,5,5,4,4,4,5,2,4,5,4,2,3,9,2,3,"Scenario #4, Treatment",Republican,Arizona,Swing,0,1,0
+1,4,3,5,1,4,4,4,4,4,4,4,2,4,4,6,1,3,2,2,38,"Scenario #6, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,2,3,3,1,4,5,4,4,5,4,5,2,5,4,4,1,4,1,2,33,"Scenario #2, Treatment",Democrat,North Carolina,Swing,1,0,0
+2,2,6,2,1,4,4,5,5,4,5,4,1,4,4,3,3,6,3,2,1,"Scenario #3, Treatment",Independent,Alabama,Red,0,0,1
+1,3,3,2,1,4,4,3,3,3,3,3,3,3,3,2,2,4,1,2,39,"Scenario #6, Treatment",Republican,Rhode Island,Blue,0,1,0
+2,5,6,3,1,3,3,2,1,1,1,1,4,1,4,1,2,4,9,2,16,Control Scenario,Republican,Kansas,Red,0,1,0
+2,6,6,3,1,4,3,2,2,3,2,3,2,4,2,2,2,2,3,2,40,Control Scenario,Republican,South Carolina,Red,0,1,0
+1,3,4,2,1,4,4,4,4,4,4,4,2,5,4,4,3,4,1,1,43,"Scenario #1, Treatment",Independent,Texas,Other,0,0,1
+1,5,6,1,1,5,5,5,5,5,5,5,1,5,5,2,1,4,9,2,24,"Scenario #5, Treatment",Democrat,Mississippi,Red,1,0,0
+2,5,6,3,1,5,5,5,5,4,5,5,1,4,5,3,3,7,1,2,38,Control Scenario,Independent,Pennsylvania,Swing,0,0,1
+1,7,6,2,1,4,4,4,4,4,4,4,2,4,4,1,1,2,9,2,16,"Scenario #2, Treatment",Democrat,Kansas,Red,1,0,0
+2,4,6,5,1,2,2,3,3,3,3,3,3,3,4,5,5,8,9,2,41,"Scenario #4, Treatment",Other,South Dakota,Red,0,0,0
+1,3,2,5,1,4,4,3,4,4,4,3,3,4,3,3,3,6,2,2,38,"Scenario #5, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,3,6,3,1,4,2,4,5,5,2,5,5,5,5,4,3,3,10,2,18,"Scenario #1, Treatment",Independent,Louisiana,Red,0,0,1
+1,5,6,4,1,4,4,4,4,4,4,4,2,4,4,2,3,1,1,2,33,"Scenario #3, Treatment",Independent,North Carolina,Swing,0,0,1
+1,6,6,5,1,4,3,4,5,4,4,4,1,5,5,2,2,4,9,1,47,"Scenario #4, Treatment",Republican,Washington,Blue,0,1,0
+2,6,6,5,1,3,2,4,2,2,3,4,2,3,4,6,1,4,1,2,7,"Scenario #1, Treatment",Democrat,Connecticut,Blue,1,0,0
+1,7,6,3,1,1,1,3,3,3,3,3,2,3,4,4,3,7,1,1,23,"Scenario #1, Treatment",Independent,Minnesota,Other,0,0,1
+2,3,3,3,1,1,1,3,1,4,4,3,2,3,4,1,1,3,1,2,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+2,5,4,3,1,4,4,4,4,4,3,4,2,4,4,4,1,2,1,2,43,"Scenario #6, Treatment",Democrat,Texas,Other,1,0,0
+1,5,6,5,1,3,2,3,2,4,4,3,2,5,4,6,2,2,8,2,46,Control Scenario,Republican,Virginia,Other,0,1,0
+2,7,6,6,1,4,4,4,4,4,4,4,2,4,4,2,2,4,9,2,7,"Scenario #1, Treatment",Republican,Connecticut,Blue,0,1,0
+2,6,6,2,1,3,3,3,3,3,3,3,3,3,3,3,2,4,10,2,17,"Scenario #4, Treatment",Republican,Kentucky,Red,0,1,0
+1,4,6,2,1,4,4,2,1,4,4,3,3,3,5,2,2,6,2,2,6,"Scenario #3, Treatment",Republican,Colorado,Other,0,1,0
+2,5,6,3,1,4,4,2,2,4,4,4,4,4,4,4,2,5,9,2,5,"Scenario #1, Treatment",Republican,California,Blue,0,1,0
+1,5,6,4,1,5,5,2,4,5,5,4,4,5,5,4,3,7,1,1,43,"Scenario #2, Treatment",Independent,Texas,Other,0,0,1
+1,3,3,3,1,3,3,3,3,3,3,3,3,3,3,2,3,3,9,2,43,"Scenario #5, Treatment",Independent,Texas,Other,0,0,1
+1,5,6,2,1,1,1,4,1,1,1,1,5,1,1,4,1,2,2,2,38,Control Scenario,Democrat,Pennsylvania,Swing,1,0,0
+1,7,6,3,1,4,4,4,4,4,4,4,2,4,2,5,2,4,2,2,28,"Scenario #6, Treatment",Republican,Nevada,Swing,0,1,0
+2,5,5,4,1,4,2,3,3,1,4,3,1,4,4,3,1,4,4,1,7,"Scenario #1, Treatment",Democrat,Connecticut,Blue,1,0,0
+2,2,6,2,1,5,4,3,5,5,4,4,1,5,4,2,1,4,5,2,20,"Scenario #6, Treatment",Democrat,Maryland,Blue,1,0,0
+2,4,6,5,1,4,4,3,2,3,3,4,1,3,4,2,3,4,3,2,16,"Scenario #4, Treatment",Independent,Kansas,Red,0,0,1
+2,3,6,2,1,4,3,4,3,3,4,4,2,5,4,4,1,4,1,2,47,Control Scenario,Democrat,Washington,Blue,1,0,0
+2,7,6,6,1,4,4,4,3,4,3,4,2,4,4,6,2,4,4,1,2,"Scenario #6, Treatment",Republican,Alaska,Other,0,1,0
+1,3,3,2,1,3,3,4,5,4,4,5,2,5,3,3,1,6,2,2,40,Control Scenario,Democrat,South Carolina,Red,1,0,0
+2,2,6,2,1,2,1,5,1,2,2,2,5,2,2,4,1,1,9,2,22,"Scenario #6, Treatment",Democrat,Michigan,Swing,1,0,0
+1,3,6,4,1,2,2,4,4,2,2,2,2,4,4,5,3,6,1,2,17,"Scenario #2, Treatment",Independent,Kentucky,Red,0,0,1
+2,6,6,2,1,2,2,4,1,4,4,4,1,3,4,3,2,2,9,2,32,Control Scenario,Republican,New York,Blue,0,1,0
+1,5,6,3,1,1,1,3,3,3,3,2,3,2,3,2,2,4,9,2,9,"Scenario #4, Treatment",Republican,Florida,Other,0,1,0
+2,6,6,3,1,2,2,2,2,4,4,4,3,4,4,2,2,4,1,2,1,"Scenario #3, Treatment",Republican,Alabama,Red,0,1,0
+1,3,6,6,1,5,4,4,4,4,5,4,1,4,5,6,1,2,5,2,32,Control Scenario,Democrat,New York,Blue,1,0,0
+1,6,6,2,1,1,1,5,1,1,1,1,5,1,1,2,3,6,1,2,5,"Scenario #3, Treatment",Independent,California,Blue,0,0,1
+1,3,6,5,1,5,5,4,2,3,4,2,2,3,4,4,3,6,2,2,32,"Scenario #6, Treatment",Independent,New York,Blue,0,0,1
+2,4,6,3,1,4,4,4,3,4,4,4,2,5,5,3,1,2,1,2,9,"Scenario #4, Treatment",Democrat,Florida,Other,1,0,0
+2,3,2,3,1,4,4,4,4,4,4,4,3,4,3,4,1,3,3,2,5,"Scenario #3, Treatment",Democrat,California,Blue,1,0,0
+2,3,6,6,1,3,3,3,3,3,3,3,2,3,3,6,3,7,1,2,1,"Scenario #6, Treatment",Independent,Alabama,Red,0,0,1
+2,4,6,2,1,4,4,4,4,4,3,3,3,4,4,2,1,4,2,2,38,"Scenario #2, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,6,3,3,1,3,3,3,3,4,4,4,2,4,4,3,1,2,1,2,40,"Scenario #1, Treatment",Democrat,South Carolina,Red,1,0,0
+2,6,6,4,1,5,5,4,2,4,4,4,2,4,4,1,1,3,1,2,36,"Scenario #1, Treatment",Democrat,Oklahoma,Red,1,0,0
+1,6,6,5,1,4,5,3,4,5,5,4,3,4,5,4,1,1,1,1,9,"Scenario #5, Treatment",Democrat,Florida,Other,1,0,0
+1,2,3,3,1,5,5,4,5,5,5,5,5,5,5,6,2,4,9,2,9,"Scenario #5, Treatment",Republican,Florida,Other,0,1,0
+1,3,6,5,1,4,4,4,4,3,4,4,3,4,4,3,1,3,2,2,38,Control Scenario,Democrat,Pennsylvania,Swing,1,0,0
+1,6,2,3,1,2,1,3,2,3,2,3,3,3,3,1,1,4,1,1,38,"Scenario #2, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,3,6,2,1,4,3,4,4,2,4,4,3,4,4,3,3,5,2,1,30,"Scenario #4, Treatment",Independent,New Jersey,Blue,0,0,1
+1,5,6,4,1,1,1,4,1,1,1,1,5,3,5,6,3,7,1,2,37,"Scenario #3, Treatment",Independent,Oregon,Blue,0,0,1
+1,3,2,6,1,4,4,4,4,4,4,3,2,3,4,6,2,5,10,2,32,"Scenario #5, Treatment",Republican,New York,Blue,0,1,0
+1,5,6,1,1,4,4,3,3,4,3,4,3,3,4,1,3,4,2,2,38,"Scenario #6, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,4,6,2,1,3,3,4,2,2,1,2,4,3,4,6,1,4,1,2,33,"Scenario #1, Treatment",Democrat,North Carolina,Swing,1,0,0
+1,3,6,5,1,5,5,4,5,4,4,5,2,4,5,6,1,1,1,1,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+2,7,6,2,1,3,2,3,3,4,3,4,3,4,4,3,1,3,2,2,5,"Scenario #2, Treatment",Democrat,California,Blue,1,0,0
+1,3,3,5,1,4,5,4,4,5,4,5,3,5,4,4,2,4,8,2,4,"Scenario #5, Treatment",Republican,Arkansas,Red,0,1,0
+1,6,6,3,1,5,5,3,4,4,4,4,3,4,4,3,1,2,9,1,9,Control Scenario,Democrat,Florida,Other,1,0,0
+2,5,6,2,1,5,5,5,5,5,5,5,1,5,5,4,2,1,3,2,17,"Scenario #6, Treatment",Republican,Kentucky,Red,0,1,0
+2,5,6,4,1,5,5,4,2,4,5,4,2,5,5,3,1,2,9,2,5,"Scenario #2, Treatment",Democrat,California,Blue,1,0,0
+1,2,6,3,1,4,4,4,4,4,4,3,4,2,2,3,2,5,3,2,44,"Scenario #6, Treatment",Republican,Utah,Red,0,1,0
+1,3,6,5,1,4,4,2,2,2,4,4,2,2,4,6,1,1,8,2,5,"Scenario #4, Treatment",Democrat,California,Blue,1,0,0
+1,5,6,5,1,1,1,4,2,1,4,2,4,3,4,6,3,7,1,2,42,"Scenario #3, Treatment",Independent,Tennessee,Red,0,0,1
+1,5,6,2,1,3,3,3,3,3,3,4,2,3,2,3,2,6,1,1,33,"Scenario #6, Treatment",Republican,North Carolina,Swing,0,1,0
+1,6,6,1,1,3,3,3,3,3,3,3,3,3,3,3,1,5,9,2,9,"Scenario #2, Treatment",Democrat,Florida,Other,1,0,0
+1,2,2,3,1,4,2,4,4,2,2,4,2,2,2,5,3,5,1,1,5,"Scenario #4, Treatment",Independent,California,Blue,0,0,1
+1,3,6,5,1,4,4,4,3,2,4,2,2,4,4,4,1,3,2,2,38,"Scenario #5, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,5,6,3,1,5,4,5,4,4,4,4,2,5,4,2,2,4,1,2,5,"Scenario #3, Treatment",Republican,California,Blue,0,1,0
+1,3,6,3,1,5,4,4,5,5,5,5,3,4,5,4,1,2,9,2,1,"Scenario #3, Treatment",Democrat,Alabama,Red,1,0,0
+2,6,6,2,1,3,3,3,3,3,4,3,3,3,3,3,1,1,2,2,9,"Scenario #1, Treatment",Democrat,Florida,Other,1,0,0
+1,6,3,3,1,4,4,4,4,3,4,3,2,4,4,3,1,5,3,2,28,"Scenario #4, Treatment",Democrat,Nevada,Swing,1,0,0
+1,3,1,5,1,4,3,4,5,4,4,4,4,3,3,4,1,2,1,2,47,"Scenario #3, Treatment",Democrat,Washington,Blue,1,0,0
+2,7,6,2,1,4,4,3,3,4,4,4,2,4,4,2,2,4,2,2,13,"Scenario #5, Treatment",Republican,Illinois,Blue,0,1,0
+2,5,6,2,1,5,5,5,5,5,5,5,1,5,5,3,3,5,3,2,25,Control Scenario,Independent,Missouri,Red,0,0,1
+1,2,6,2,1,1,1,3,1,1,1,1,1,1,1,4,1,4,9,2,5,"Scenario #5, Treatment",Democrat,California,Blue,1,0,0
+1,5,6,3,1,2,2,4,4,4,3,4,2,4,4,4,1,4,8,2,8,"Scenario #4, Treatment",Democrat,Delaware,Blue,1,0,0
+1,5,6,2,1,3,3,3,4,4,4,4,2,4,4,2,2,4,2,2,7,Control Scenario,Republican,Connecticut,Blue,0,1,0
+1,4,3,5,1,3,2,4,4,3,4,4,3,3,5,6,1,3,9,2,5,"Scenario #3, Treatment",Democrat,California,Blue,1,0,0
+2,3,6,3,1,4,4,4,4,4,4,4,2,4,4,3,3,6,1,1,1,Control Scenario,Independent,Alabama,Red,0,0,1
+1,7,6,3,1,4,4,3,3,4,4,3,3,4,4,3,1,2,1,1,9,"Scenario #3, Treatment",Democrat,Florida,Other,1,0,0
+2,3,6,3,1,3,3,4,4,3,3,3,3,4,4,3,1,2,9,2,42,"Scenario #4, Treatment",Democrat,Tennessee,Red,1,0,0
+2,5,6,2,1,4,3,4,4,5,4,2,2,4,4,6,3,4,3,2,47,Control Scenario,Independent,Washington,Blue,0,0,1
+1,5,6,5,1,2,2,4,4,4,2,4,1,4,4,3,3,7,1,2,25,"Scenario #2, Treatment",Independent,Missouri,Red,0,0,1
+1,6,4,2,1,4,4,4,4,4,4,3,2,4,4,4,1,3,2,2,30,"Scenario #5, Treatment",Democrat,New Jersey,Blue,1,0,0
+2,6,4,2,1,3,3,3,2,3,3,3,3,3,3,4,2,4,2,2,43,"Scenario #1, Treatment",Republican,Texas,Other,0,1,0
+1,6,6,4,1,1,1,4,2,2,3,2,5,3,4,4,2,4,9,2,14,"Scenario #6, Treatment",Republican,Indiana,Other,0,1,0
+1,5,6,2,1,5,4,2,5,4,5,4,4,4,5,5,3,6,8,2,38,"Scenario #3, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,7,4,5,1,3,4,4,4,4,3,4,2,4,4,5,2,4,10,2,9,"Scenario #4, Treatment",Republican,Florida,Other,0,1,0
+2,7,6,5,1,3,3,4,4,4,3,3,4,4,4,6,3,6,1,2,49,"Scenario #6, Treatment",Independent,Wisconsin,Swing,0,0,1
+1,5,6,5,1,4,4,5,2,4,5,3,4,5,4,6,1,2,9,1,35,"Scenario #3, Treatment",Democrat,Ohio,Other,1,0,0
+1,5,6,6,1,5,5,5,4,5,5,4,1,5,5,4,3,6,1,1,36,"Scenario #4, Treatment",Independent,Oklahoma,Red,0,0,1
+2,7,6,2,1,3,3,2,4,4,4,4,2,4,4,4,1,2,1,2,38,"Scenario #2, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,5,6,6,1,5,5,5,5,5,5,5,1,5,5,6,1,1,1,1,24,"Scenario #6, Treatment",Democrat,Mississippi,Red,1,0,0
+1,3,3,3,1,4,4,4,4,4,4,4,2,4,4,3,1,6,3,2,22,Control Scenario,Democrat,Michigan,Swing,1,0,0
+1,3,6,6,1,5,4,5,5,4,5,4,1,5,4,5,1,1,5,2,32,"Scenario #2, Treatment",Democrat,New York,Blue,1,0,0
+1,4,6,5,1,4,4,3,4,5,5,4,2,4,5,6,3,7,2,2,32,"Scenario #5, Treatment",Independent,New York,Blue,0,0,1
+1,5,6,2,1,4,4,5,5,3,3,3,2,5,4,4,1,4,3,2,47,"Scenario #2, Treatment",Democrat,Washington,Blue,1,0,0
+1,4,6,2,1,3,4,5,4,4,4,5,2,3,4,1,2,4,9,2,5,"Scenario #5, Treatment",Republican,California,Blue,0,1,0
+2,5,6,2,1,3,3,3,3,3,3,3,3,3,3,3,1,4,2,2,38,"Scenario #4, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,2,6,3,1,4,3,4,4,5,3,4,2,4,5,1,3,6,1,2,10,"Scenario #2, Treatment",Independent,Georgia,Swing,0,0,1
+1,4,4,5,1,4,5,4,4,5,4,4,1,4,5,4,3,6,2,2,32,"Scenario #1, Treatment",Independent,New York,Blue,0,0,1
+1,4,6,2,1,4,4,3,5,5,5,5,1,5,5,3,3,7,9,2,10,"Scenario #3, Treatment",Independent,Georgia,Swing,0,0,1
+2,5,6,4,1,4,4,4,4,4,4,4,2,4,4,3,1,4,2,2,38,"Scenario #6, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,2,4,5,1,5,5,4,4,4,4,5,1,4,4,5,1,3,2,1,43,"Scenario #4, Treatment",Democrat,Texas,Other,1,0,0
+1,5,6,6,1,4,4,5,5,4,4,4,4,5,4,6,3,5,4,2,32,"Scenario #3, Treatment",Independent,New York,Blue,0,0,1
+2,3,4,2,1,5,5,5,5,5,5,2,4,3,3,5,5,6,3,2,46,"Scenario #1, Treatment",Other,Virginia,Other,0,0,0
+1,5,6,3,1,1,1,3,1,2,3,2,4,3,3,1,4,4,9,1,9,"Scenario #1, Treatment",Other,Florida,Other,0,0,0
+1,5,6,3,1,5,4,3,4,5,5,5,3,5,4,2,2,4,3,1,9,Control Scenario,Republican,Florida,Other,0,1,0
+1,3,6,4,1,3,4,5,5,3,1,3,2,5,5,4,3,7,1,1,9,"Scenario #6, Treatment",Independent,Florida,Other,0,0,1
+1,4,4,3,1,3,3,3,3,3,3,3,3,3,3,4,2,4,9,2,1,"Scenario #1, Treatment",Republican,Alabama,Red,0,1,0
+2,4,6,5,1,4,5,4,4,3,5,4,1,5,5,6,3,6,1,2,17,"Scenario #6, Treatment",Independent,Kentucky,Red,0,0,1
+2,3,2,2,1,4,4,4,4,4,4,4,1,4,4,3,1,4,3,2,43,"Scenario #2, Treatment",Democrat,Texas,Other,1,0,0
+1,3,4,6,1,3,3,3,3,3,3,3,3,3,3,1,2,4,10,2,12,"Scenario #5, Treatment",Republican,Idaho,Red,0,1,0
+2,2,5,2,1,5,4,4,4,4,4,5,2,5,4,3,3,4,1,2,40,"Scenario #4, Treatment",Independent,South Carolina,Red,0,0,1
+1,3,6,2,1,3,3,4,4,4,3,4,3,3,3,3,2,4,9,2,35,"Scenario #3, Treatment",Republican,Ohio,Other,0,1,0
+2,3,6,4,1,5,4,5,4,4,3,4,2,5,4,4,3,7,1,2,17,"Scenario #3, Treatment",Independent,Kentucky,Red,0,0,1
+2,5,6,4,1,2,1,2,2,3,1,4,3,5,3,2,3,4,1,2,35,"Scenario #5, Treatment",Independent,Ohio,Other,0,0,1
+2,6,6,5,1,4,4,3,4,4,4,4,3,4,5,4,3,4,3,2,43,Control Scenario,Independent,Texas,Other,0,0,1
+1,6,6,3,1,4,4,4,4,4,3,4,4,2,4,3,2,6,3,1,22,"Scenario #6, Treatment",Republican,Michigan,Swing,0,1,0
+1,2,6,5,1,4,5,2,5,5,5,4,3,3,4,5,2,2,2,1,21,"Scenario #5, Treatment",Republican,Massachusetts,Blue,0,1,0
+2,3,6,2,1,3,3,3,2,2,2,4,2,2,3,3,3,5,3,2,40,"Scenario #1, Treatment",Independent,South Carolina,Red,0,0,1
+2,5,3,4,1,4,4,4,4,4,4,4,2,4,4,1,1,2,1,1,24,"Scenario #4, Treatment",Democrat,Mississippi,Red,1,0,0
+1,3,6,3,1,1,1,4,1,3,4,2,3,3,4,3,1,1,9,2,22,"Scenario #4, Treatment",Democrat,Michigan,Swing,1,0,0
+2,6,4,2,1,5,5,5,5,5,5,4,2,4,4,2,1,5,2,1,32,Control Scenario,Democrat,New York,Blue,1,0,0
+2,4,6,2,1,2,2,4,2,3,2,4,2,3,4,3,2,4,1,2,43,"Scenario #4, Treatment",Republican,Texas,Other,0,1,0
+1,5,6,2,1,5,5,5,5,5,5,5,1,5,5,4,1,1,2,2,5,"Scenario #1, Treatment",Democrat,California,Blue,1,0,0
+1,7,6,3,1,3,3,2,3,3,2,4,2,4,4,2,1,1,9,2,3,"Scenario #4, Treatment",Democrat,Arizona,Swing,1,0,0
+2,5,6,2,1,2,2,2,2,4,2,2,4,3,2,3,3,7,1,2,17,"Scenario #2, Treatment",Independent,Kentucky,Red,0,0,1
+2,5,6,2,1,2,2,3,2,3,3,2,3,3,3,1,2,5,3,2,13,"Scenario #3, Treatment",Republican,Illinois,Blue,0,1,0
+1,2,2,5,1,4,4,2,2,4,3,4,2,4,4,6,2,3,7,2,22,"Scenario #6, Treatment",Republican,Michigan,Swing,0,1,0
+1,2,6,2,1,4,4,4,4,4,4,4,2,4,4,1,3,4,3,2,35,"Scenario #3, Treatment",Independent,Ohio,Other,0,0,1
+1,3,3,3,1,4,4,4,4,5,4,4,1,4,4,1,1,6,3,2,32,"Scenario #5, Treatment",Democrat,New York,Blue,1,0,0
+1,6,6,4,1,4,4,2,3,3,4,3,2,4,3,2,2,4,9,2,20,Control Scenario,Republican,Maryland,Blue,0,1,0
+2,5,6,6,1,3,3,2,3,3,4,4,2,5,4,5,2,5,2,2,32,"Scenario #6, Treatment",Republican,New York,Blue,0,1,0
+1,6,6,2,1,4,4,4,4,4,5,5,3,5,5,3,1,4,9,2,22,"Scenario #2, Treatment",Democrat,Michigan,Swing,1,0,0
+1,5,4,3,1,4,5,2,4,4,4,5,3,5,5,4,2,3,8,2,43,"Scenario #1, Treatment",Republican,Texas,Other,0,1,0
+1,7,3,4,1,4,4,3,2,3,3,4,3,3,3,3,1,4,10,1,43,Control Scenario,Democrat,Texas,Other,1,0,0
+2,5,6,2,1,3,3,4,1,2,2,3,2,2,2,3,3,7,9,2,38,"Scenario #2, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,2,3,2,1,4,4,4,5,2,4,5,3,5,4,3,1,6,3,2,32,"Scenario #2, Treatment",Democrat,New York,Blue,1,0,0
+1,4,6,2,1,5,5,5,5,5,5,5,1,5,5,1,1,1,1,2,14,"Scenario #1, Treatment",Democrat,Indiana,Other,1,0,0
+2,3,6,4,1,5,4,5,5,4,4,5,2,5,4,3,3,7,9,2,16,"Scenario #2, Treatment",Independent,Kansas,Red,0,0,1
+1,4,3,2,1,3,3,3,4,3,3,3,3,3,4,4,1,4,3,2,7,"Scenario #6, Treatment",Democrat,Connecticut,Blue,1,0,0
+1,3,6,4,1,4,4,4,4,4,4,4,2,4,4,5,3,6,5,1,16,"Scenario #1, Treatment",Independent,Kansas,Red,0,0,1
+1,3,3,2,1,3,3,4,3,3,3,3,2,4,5,2,2,4,9,2,43,Control Scenario,Republican,Texas,Other,0,1,0
+2,3,4,5,1,3,2,3,2,4,4,3,3,4,4,3,5,8,9,2,9,Control Scenario,Other,Florida,Other,0,0,0
+2,4,6,4,1,1,1,4,3,3,1,3,2,3,4,1,3,4,1,2,38,"Scenario #5, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,5,6,6,1,5,5,5,4,5,4,5,1,5,5,6,3,6,9,2,22,"Scenario #5, Treatment",Independent,Michigan,Swing,0,0,1
+2,5,6,3,1,1,3,2,3,3,3,3,2,3,4,3,4,8,9,2,35,"Scenario #3, Treatment",Other,Ohio,Other,0,0,0
+1,5,6,5,1,2,2,5,3,3,3,3,3,3,3,6,2,4,2,2,22,"Scenario #6, Treatment",Republican,Michigan,Swing,0,1,0
+2,5,6,4,1,4,4,3,3,3,3,3,2,4,4,2,3,5,1,2,1,Control Scenario,Independent,Alabama,Red,0,0,1
+1,6,3,3,1,4,4,3,3,4,4,4,2,4,4,4,1,3,3,1,33,"Scenario #3, Treatment",Democrat,North Carolina,Swing,1,0,0
+2,4,6,1,1,3,3,1,3,3,3,3,3,3,3,3,2,8,2,2,9,"Scenario #2, Treatment",Republican,Florida,Other,0,1,0
+1,7,6,3,1,2,2,4,2,3,2,2,4,2,3,3,4,6,1,1,10,"Scenario #4, Treatment",Other,Georgia,Swing,0,0,0
+2,6,6,2,1,5,5,5,5,5,5,5,1,5,5,1,3,7,8,2,28,Control Scenario,Independent,Nevada,Swing,0,0,1
+1,6,6,2,1,2,3,3,2,3,1,3,4,2,4,2,2,6,1,2,24,"Scenario #2, Treatment",Republican,Mississippi,Red,0,1,0
+1,3,6,5,1,3,3,2,2,2,3,4,2,4,4,6,1,3,2,2,49,"Scenario #2, Treatment",Democrat,Wisconsin,Swing,1,0,0
+2,7,6,2,1,4,4,2,2,4,4,4,2,4,4,2,1,4,3,2,33,"Scenario #5, Treatment",Democrat,North Carolina,Swing,1,0,0
+1,4,6,2,1,4,4,4,4,5,5,5,2,5,5,2,3,4,2,2,27,Control Scenario,Independent,Nebraska,Red,0,0,1
+1,3,6,2,1,4,4,2,4,4,3,4,1,4,2,1,3,7,9,2,16,"Scenario #2, Treatment",Independent,Kansas,Red,0,0,1
+2,3,6,2,1,4,3,3,4,3,4,4,3,4,3,1,1,3,3,2,8,Control Scenario,Democrat,Delaware,Blue,1,0,0
+2,2,6,5,1,3,3,4,3,4,3,3,3,4,3,4,3,4,9,2,38,Control Scenario,Independent,Pennsylvania,Swing,0,0,1
+2,7,6,5,1,3,3,2,4,4,2,4,2,4,4,5,1,2,4,2,9,"Scenario #4, Treatment",Democrat,Florida,Other,1,0,0
+1,2,6,5,1,4,3,4,4,3,4,3,2,3,4,6,1,2,9,1,43,"Scenario #3, Treatment",Democrat,Texas,Other,1,0,0
+2,5,6,1,1,4,4,4,4,4,4,4,2,4,4,2,2,4,2,2,1,"Scenario #4, Treatment",Republican,Alabama,Red,0,1,0
+1,2,6,2,1,4,2,5,4,4,4,5,3,4,4,5,3,6,2,2,1,"Scenario #6, Treatment",Independent,Alabama,Red,0,0,1
+2,4,3,4,1,3,3,3,3,3,3,3,3,3,3,1,1,5,2,2,18,"Scenario #5, Treatment",Democrat,Louisiana,Red,1,0,0
+1,5,6,3,1,4,4,4,3,3,3,4,4,3,5,6,1,4,6,2,1,"Scenario #1, Treatment",Democrat,Alabama,Red,1,0,0
+2,6,6,2,1,4,4,4,4,4,4,3,3,4,4,2,1,2,2,2,9,"Scenario #4, Treatment",Democrat,Florida,Other,1,0,0
+1,3,6,5,1,4,4,4,4,5,4,5,2,3,4,4,1,2,1,2,35,"Scenario #3, Treatment",Democrat,Ohio,Other,1,0,0
+1,5,6,5,1,4,3,4,2,4,3,4,2,4,4,4,4,5,1,2,43,"Scenario #2, Treatment",Other,Texas,Other,0,0,0
+1,3,6,3,1,5,5,5,3,4,4,4,1,5,5,3,1,2,9,2,1,"Scenario #1, Treatment",Democrat,Alabama,Red,1,0,0
+2,3,2,5,1,3,3,3,3,3,4,3,2,4,4,3,1,3,6,2,5,Control Scenario,Democrat,California,Blue,1,0,0
+2,4,6,3,1,1,1,2,2,3,3,3,4,2,2,3,1,2,3,2,47,"Scenario #3, Treatment",Democrat,Washington,Blue,1,0,0
+2,3,6,3,1,2,2,4,2,2,2,2,1,2,2,1,2,5,1,2,47,"Scenario #1, Treatment",Republican,Washington,Blue,0,1,0
+2,3,6,2,1,2,2,4,1,3,3,2,1,3,4,6,1,3,9,2,43,"Scenario #2, Treatment",Democrat,Texas,Other,1,0,0
+1,6,3,2,1,5,5,5,5,5,5,5,1,5,5,5,1,6,3,2,21,"Scenario #1, Treatment",Democrat,Massachusetts,Blue,1,0,0
+2,4,6,3,1,3,2,1,4,3,2,4,2,3,3,4,1,2,9,2,5,"Scenario #5, Treatment",Democrat,California,Blue,1,0,0
+1,4,6,4,1,2,2,4,4,4,4,4,2,4,4,3,1,3,5,2,5,"Scenario #3, Treatment",Democrat,California,Blue,1,0,0
+2,3,6,5,1,4,3,4,2,4,4,4,1,5,4,3,1,2,8,2,36,"Scenario #1, Treatment",Democrat,Oklahoma,Red,1,0,0
+2,2,6,5,1,1,1,4,2,2,5,4,3,2,4,2,4,1,10,2,10,"Scenario #6, Treatment",Other,Georgia,Swing,0,0,0
+1,7,6,6,1,3,2,3,3,3,3,4,2,4,4,6,3,7,1,2,38,"Scenario #4, Treatment",Independent,Pennsylvania,Swing,0,0,1
+2,4,6,3,1,2,1,4,2,1,1,3,2,2,2,3,2,4,3,2,35,"Scenario #5, Treatment",Republican,Ohio,Other,0,1,0
+2,5,6,4,1,4,4,4,4,4,4,4,2,4,4,4,3,6,3,2,10,"Scenario #5, Treatment",Independent,Georgia,Swing,0,0,1
+1,6,6,3,1,5,4,4,5,3,4,4,2,4,5,3,3,6,3,1,43,Control Scenario,Independent,Texas,Other,0,0,1
+2,5,6,2,1,2,2,3,3,2,4,2,4,3,4,2,2,4,1,2,9,"Scenario #5, Treatment",Republican,Florida,Other,0,1,0
+1,3,3,3,1,4,4,4,3,4,4,4,2,4,4,3,1,4,3,1,43,"Scenario #6, Treatment",Democrat,Texas,Other,1,0,0
+1,3,4,4,1,4,4,5,2,4,4,5,2,4,5,4,1,3,2,2,47,"Scenario #2, Treatment",Democrat,Washington,Blue,1,0,0
+1,2,6,3,1,4,2,4,2,4,5,4,2,5,5,2,2,5,1,2,35,"Scenario #4, Treatment",Republican,Ohio,Other,0,1,0
+2,7,6,3,1,3,3,4,4,4,4,4,4,4,4,2,2,5,3,2,10,"Scenario #4, Treatment",Republican,Georgia,Swing,0,1,0
+1,3,6,6,1,5,5,5,5,5,5,5,2,5,5,6,2,7,2,1,13,"Scenario #3, Treatment",Republican,Illinois,Blue,0,1,0
+1,7,6,3,1,1,1,5,4,4,4,5,2,5,4,5,3,6,2,1,13,"Scenario #2, Treatment",Independent,Illinois,Blue,0,0,1
+1,3,6,3,1,3,3,4,4,3,3,3,3,3,3,3,3,6,2,2,36,"Scenario #1, Treatment",Independent,Oklahoma,Red,0,0,1
+2,2,3,3,1,5,3,4,2,3,5,4,1,4,4,4,1,1,9,2,18,Control Scenario,Democrat,Louisiana,Red,1,0,0
+1,3,4,4,1,3,3,3,3,3,3,3,3,3,3,3,3,2,2,2,9,"Scenario #4, Treatment",Independent,Florida,Other,0,0,1
+1,5,6,4,1,4,5,4,3,4,4,5,2,5,4,4,3,5,1,2,38,"Scenario #5, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,5,6,5,1,5,5,5,5,5,5,5,3,3,5,6,1,3,9,2,47,"Scenario #2, Treatment",Democrat,Washington,Blue,1,0,0
+2,4,6,3,1,2,2,4,3,4,2,4,2,4,4,3,2,4,9,2,42,"Scenario #2, Treatment",Republican,Tennessee,Red,0,1,0
+1,7,6,3,1,5,5,4,4,4,5,4,3,5,5,2,2,4,9,1,37,"Scenario #1, Treatment",Republican,Oregon,Blue,0,1,0
+2,3,2,5,1,3,3,4,2,4,4,4,2,4,4,6,1,4,2,2,38,"Scenario #4, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,5,6,4,1,4,4,2,5,3,2,3,2,4,4,4,3,7,3,1,26,"Scenario #3, Treatment",Independent,Montana,Red,0,0,1
+2,7,6,2,1,3,3,3,3,3,3,3,3,3,3,4,4,8,10,2,49,"Scenario #5, Treatment",Other,Wisconsin,Swing,0,0,0
+1,5,6,3,1,4,3,4,2,1,1,1,1,2,4,4,3,6,1,2,19,"Scenario #4, Treatment",Independent,Maine,Other,0,0,1
+2,5,6,4,1,5,4,4,5,4,4,5,2,5,4,2,1,3,1,2,1,Control Scenario,Democrat,Alabama,Red,1,0,0
+1,2,6,2,1,3,3,3,5,5,2,5,2,5,2,3,5,8,9,2,43,Control Scenario,Other,Texas,Other,0,0,0
+1,7,6,3,1,1,1,5,1,1,1,1,5,4,1,2,3,6,2,2,28,"Scenario #5, Treatment",Independent,Nevada,Swing,0,0,1
+1,7,6,5,1,4,3,4,4,4,4,4,1,4,4,6,4,7,2,2,32,"Scenario #6, Treatment",Other,New York,Blue,0,0,0
+2,6,6,3,1,5,5,3,4,4,4,4,1,4,4,3,4,4,1,2,35,"Scenario #6, Treatment",Other,Ohio,Other,0,0,0
+2,4,3,3,1,1,1,1,1,1,1,3,3,3,3,3,4,4,9,2,32,"Scenario #5, Treatment",Other,New York,Blue,0,0,0
+2,5,6,2,1,4,4,3,5,5,5,4,2,4,4,5,2,2,3,2,47,Control Scenario,Republican,Washington,Blue,0,1,0
+1,7,6,5,1,5,5,5,5,5,5,5,1,5,5,3,1,4,10,1,28,"Scenario #1, Treatment",Democrat,Nevada,Swing,1,0,0
+2,2,3,6,1,5,3,4,1,4,3,5,2,3,3,6,1,7,1,1,10,"Scenario #4, Treatment",Democrat,Georgia,Swing,1,0,0
+1,7,6,2,1,3,1,1,1,1,2,2,4,2,3,4,3,6,2,2,32,"Scenario #3, Treatment",Independent,New York,Blue,0,0,1
+1,3,4,2,1,3,3,3,3,3,3,3,3,3,3,1,2,8,2,2,25,"Scenario #6, Treatment",Republican,Missouri,Red,0,1,0
+2,2,6,3,1,4,2,2,2,4,4,4,2,5,5,1,1,1,3,2,22,"Scenario #2, Treatment",Democrat,Michigan,Swing,1,0,0
+1,7,6,5,1,3,2,2,2,4,4,4,2,3,4,2,2,5,2,2,22,"Scenario #3, Treatment",Republican,Michigan,Swing,0,1,0
+1,2,6,2,1,3,3,5,1,2,1,3,3,5,3,2,4,8,1,2,22,"Scenario #1, Treatment",Other,Michigan,Swing,0,0,0
+1,4,6,5,1,1,1,5,2,3,2,4,5,4,3,6,2,4,2,2,32,"Scenario #4, Treatment",Republican,New York,Blue,0,1,0
+1,4,6,5,2,1,1,2,3,2,3,3,3,3,4,4,1,3,8,2,5,"Scenario #4, Treatment",Democrat,California,Blue,1,0,0
+1,7,6,6,1,4,4,3,4,4,4,4,3,4,4,3,1,2,9,2,4,"Scenario #6, Treatment",Democrat,Arkansas,Red,1,0,0
+1,5,3,5,1,4,2,5,5,5,3,4,2,5,4,5,2,5,4,2,5,"Scenario #3, Treatment",Republican,California,Blue,0,1,0
+1,6,6,5,1,4,3,2,3,4,4,3,4,4,4,6,1,2,4,2,46,"Scenario #2, Treatment",Democrat,Virginia,Other,1,0,0
+2,6,6,3,1,4,4,4,2,2,3,4,2,5,3,5,3,6,1,2,43,Control Scenario,Independent,Texas,Other,0,0,1
+1,5,4,5,1,2,2,4,4,4,4,4,1,2,4,5,2,3,3,2,43,"Scenario #6, Treatment",Republican,Texas,Other,0,1,0
+2,7,6,4,1,3,2,3,3,3,4,2,2,4,4,5,2,4,1,2,46,"Scenario #1, Treatment",Republican,Virginia,Other,0,1,0
+2,2,6,5,1,5,5,5,5,5,5,5,1,5,5,3,3,5,1,2,43,Control Scenario,Independent,Texas,Other,0,0,1
+1,5,6,5,1,5,5,4,4,5,4,4,2,4,4,4,3,5,1,2,10,"Scenario #1, Treatment",Independent,Georgia,Swing,0,0,1
+1,7,6,4,1,3,2,1,1,4,3,4,3,4,4,3,2,3,9,2,47,"Scenario #5, Treatment",Republican,Washington,Blue,0,1,0
+1,5,6,2,1,4,4,4,3,4,2,4,2,4,4,4,1,4,2,2,30,"Scenario #2, Treatment",Democrat,New Jersey,Blue,1,0,0
+2,4,3,3,1,4,3,4,5,4,5,4,1,4,5,3,1,1,10,2,35,"Scenario #3, Treatment",Democrat,Ohio,Other,1,0,0
+1,6,6,2,1,2,2,4,1,2,3,3,2,2,4,4,4,6,3,2,30,"Scenario #4, Treatment",Other,New Jersey,Blue,0,0,0
+1,2,2,2,1,3,4,2,3,3,3,4,2,3,4,6,2,8,10,2,6,"Scenario #6, Treatment",Republican,Colorado,Other,0,1,0
+2,5,6,5,1,4,4,4,4,3,3,4,3,4,2,4,2,5,3,2,13,"Scenario #1, Treatment",Republican,Illinois,Blue,0,1,0
+1,3,6,2,1,4,3,3,3,4,3,4,2,2,3,1,4,8,9,2,33,"Scenario #6, Treatment",Other,North Carolina,Swing,0,0,0
+2,2,6,2,1,4,4,4,4,4,4,5,2,5,5,5,3,6,3,2,25,Control Scenario,Independent,Missouri,Red,0,0,1
+2,5,6,3,1,2,2,3,2,3,3,3,3,4,3,4,3,6,3,2,15,"Scenario #2, Treatment",Independent,Iowa,Other,0,0,1
+2,7,6,3,1,3,3,3,2,3,2,4,2,5,4,2,2,2,9,2,9,"Scenario #3, Treatment",Republican,Florida,Other,0,1,0
+2,2,6,3,1,4,3,3,4,3,3,3,2,3,4,2,5,8,2,2,38,"Scenario #1, Treatment",Other,Pennsylvania,Swing,0,0,0
+1,6,6,3,1,1,1,3,1,3,2,3,2,2,3,4,1,3,1,2,3,"Scenario #1, Treatment",Democrat,Arizona,Swing,1,0,0
+2,2,6,3,1,2,2,4,3,4,4,5,3,4,5,3,2,4,9,2,25,"Scenario #5, Treatment",Republican,Missouri,Red,0,1,0
+2,7,6,3,1,5,5,4,5,5,5,5,3,5,5,2,3,4,1,2,46,"Scenario #5, Treatment",Independent,Virginia,Other,0,0,1
+1,4,6,6,1,4,3,4,4,4,3,3,2,4,3,5,2,4,2,2,1,"Scenario #5, Treatment",Republican,Alabama,Red,0,1,0
+2,2,4,4,1,3,2,4,3,5,4,3,2,5,5,5,1,7,9,2,5,"Scenario #5, Treatment",Democrat,California,Blue,1,0,0
+2,5,6,3,1,4,5,4,5,2,5,2,1,4,4,5,3,6,3,2,48,"Scenario #2, Treatment",Independent,West Virginia,Red,0,0,1
+2,6,4,6,1,4,4,5,3,4,4,5,1,4,4,4,1,2,10,1,32,Control Scenario,Democrat,New York,Blue,1,0,0
+1,7,6,5,1,3,2,2,4,4,4,3,4,4,3,3,2,4,10,1,21,"Scenario #3, Treatment",Republican,Massachusetts,Blue,0,1,0
+1,6,6,2,1,4,3,2,5,5,3,5,3,4,5,2,2,5,2,2,47,"Scenario #4, Treatment",Republican,Washington,Blue,0,1,0
+2,3,3,4,1,5,5,5,5,5,5,4,2,5,5,3,2,1,3,2,43,"Scenario #1, Treatment",Republican,Texas,Other,0,1,0
+1,2,3,5,1,5,4,4,4,3,4,4,4,3,4,3,4,8,9,2,35,Control Scenario,Other,Ohio,Other,0,0,0
+1,7,6,3,1,4,4,4,4,3,4,3,2,3,4,3,1,4,2,2,38,"Scenario #6, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+2,2,6,2,1,4,4,2,3,4,4,4,2,4,4,1,5,8,10,2,37,Control Scenario,Other,Oregon,Blue,0,0,0
+2,3,3,5,1,4,4,4,4,4,4,4,2,4,4,3,2,3,3,2,43,"Scenario #2, Treatment",Republican,Texas,Other,0,1,0
+1,6,6,6,1,5,5,4,4,4,4,4,2,4,4,3,1,2,4,2,9,"Scenario #3, Treatment",Democrat,Florida,Other,1,0,0
+2,7,6,3,1,4,4,2,3,4,4,4,2,4,4,4,2,4,9,2,38,"Scenario #1, Treatment",Republican,Pennsylvania,Swing,0,1,0
+2,4,4,2,1,4,4,4,2,4,4,4,2,4,4,2,2,8,3,2,9,"Scenario #6, Treatment",Republican,Florida,Other,0,1,0
+1,6,6,2,1,2,2,4,3,4,4,4,3,4,4,4,1,3,10,2,49,"Scenario #5, Treatment",Democrat,Wisconsin,Swing,1,0,0
+1,5,6,5,1,4,4,5,4,5,5,5,1,4,4,4,1,2,2,2,43,"Scenario #5, Treatment",Democrat,Texas,Other,1,0,0
+1,2,4,6,1,4,4,5,5,5,4,5,2,3,2,4,2,3,4,1,35,"Scenario #5, Treatment",Republican,Ohio,Other,0,1,0
+1,6,6,5,1,1,1,4,4,2,2,3,3,4,5,6,3,6,1,1,43,"Scenario #4, Treatment",Independent,Texas,Other,0,0,1
+1,1,6,3,1,3,3,4,3,4,4,5,2,5,5,3,3,6,1,2,43,"Scenario #4, Treatment",Independent,Texas,Other,0,0,1
+1,4,2,5,1,4,4,4,4,4,4,4,2,4,4,2,2,4,6,2,5,"Scenario #3, Treatment",Republican,California,Blue,0,1,0
+1,6,6,4,1,5,5,4,4,4,4,4,2,5,5,5,3,7,1,2,43,"Scenario #6, Treatment",Independent,Texas,Other,0,0,1
+1,7,6,4,1,2,2,4,1,2,2,3,3,4,4,3,3,7,3,1,37,"Scenario #4, Treatment",Independent,Oregon,Blue,0,0,1
+1,5,3,3,1,5,5,5,5,5,5,5,1,5,5,4,1,1,1,2,22,"Scenario #1, Treatment",Democrat,Michigan,Swing,1,0,0
+1,5,6,5,1,4,4,3,4,3,4,4,2,3,4,6,3,7,2,2,25,Control Scenario,Independent,Missouri,Red,0,0,1
+1,7,6,5,1,2,2,3,2,4,3,4,4,2,4,4,2,4,1,2,38,"Scenario #6, Treatment",Republican,Pennsylvania,Swing,0,1,0
+1,5,6,2,1,4,4,4,5,4,3,3,2,4,5,3,2,8,9,2,48,"Scenario #2, Treatment",Republican,West Virginia,Red,0,1,0
+1,2,6,2,1,1,1,4,2,5,4,4,4,4,4,6,2,4,9,2,23,"Scenario #6, Treatment",Republican,Minnesota,Other,0,1,0
+2,6,6,4,1,4,4,3,5,4,4,4,1,5,5,4,1,1,3,2,37,"Scenario #1, Treatment",Democrat,Oregon,Blue,1,0,0
+2,6,6,5,1,3,2,2,3,2,2,3,3,4,3,4,2,2,9,2,13,"Scenario #3, Treatment",Republican,Illinois,Blue,0,1,0
+1,5,6,5,1,3,3,3,5,5,5,5,1,5,5,5,3,7,2,2,32,"Scenario #2, Treatment",Independent,New York,Blue,0,0,1
+1,5,6,3,1,4,4,4,4,4,3,4,2,4,4,6,2,4,1,2,32,"Scenario #5, Treatment",Republican,New York,Blue,0,1,0
+1,7,6,6,1,4,4,2,3,3,4,2,3,4,2,4,4,2,9,2,6,Control Scenario,Other,Colorado,Other,0,0,0
+1,6,6,5,1,5,5,5,4,5,5,5,2,5,4,5,3,6,2,1,32,"Scenario #2, Treatment",Independent,New York,Blue,0,0,1
+1,5,6,6,1,4,4,5,5,5,5,4,2,4,4,6,1,1,1,1,13,"Scenario #5, Treatment",Democrat,Illinois,Blue,1,0,0
+1,6,6,3,1,3,3,3,3,4,4,4,3,4,4,3,1,1,9,2,13,"Scenario #5, Treatment",Democrat,Illinois,Blue,1,0,0
+1,6,6,5,1,4,4,3,2,3,3,2,2,4,5,6,3,6,1,1,33,"Scenario #3, Treatment",Independent,North Carolina,Swing,0,0,1
+1,5,6,2,1,3,3,4,2,2,2,4,3,3,5,3,2,3,9,2,9,"Scenario #1, Treatment",Republican,Florida,Other,0,1,0
+1,5,6,2,1,3,3,3,3,4,4,4,2,4,3,3,3,4,1,2,43,"Scenario #2, Treatment",Independent,Texas,Other,0,0,1
+1,6,6,5,1,3,3,2,2,2,4,3,2,2,4,4,3,5,1,1,24,"Scenario #3, Treatment",Independent,Mississippi,Red,0,0,1
+1,2,6,2,1,1,1,4,1,1,1,2,3,2,1,6,3,6,2,2,35,"Scenario #1, Treatment",Independent,Ohio,Other,0,0,1
+1,7,6,3,1,4,3,3,5,5,5,5,3,5,5,6,2,6,9,2,20,Control Scenario,Republican,Maryland,Blue,0,1,0
+1,7,6,3,1,3,3,3,4,4,3,4,1,5,5,4,3,5,2,2,43,"Scenario #5, Treatment",Independent,Texas,Other,0,0,1
+2,5,6,2,1,4,4,2,3,3,4,3,2,4,4,3,3,5,9,2,22,"Scenario #1, Treatment",Independent,Michigan,Swing,0,0,1
+1,5,6,6,1,5,4,5,4,5,4,5,2,5,4,6,1,7,2,2,10,"Scenario #2, Treatment",Democrat,Georgia,Swing,1,0,0
+2,5,4,6,1,5,5,4,4,2,5,4,2,5,4,4,3,6,2,2,13,Control Scenario,Independent,Illinois,Blue,0,0,1
+1,7,6,2,1,4,2,2,4,4,1,4,2,5,4,2,1,3,9,2,38,"Scenario #1, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,7,6,5,1,3,2,2,2,2,3,2,4,3,2,4,1,4,9,2,49,"Scenario #3, Treatment",Democrat,Wisconsin,Swing,1,0,0
+1,7,6,3,1,1,1,4,1,1,1,1,5,1,2,2,4,2,9,2,5,"Scenario #4, Treatment",Other,California,Blue,0,0,0
+1,2,6,5,1,3,3,4,3,4,4,5,2,4,4,1,3,7,1,2,3,"Scenario #1, Treatment",Independent,Arizona,Swing,0,0,1
+1,5,6,6,1,4,3,4,4,3,4,3,2,4,2,5,3,4,9,1,10,Control Scenario,Independent,Georgia,Swing,0,0,1
+1,5,6,6,1,2,2,4,2,3,3,3,3,3,3,6,3,6,1,2,5,"Scenario #2, Treatment",Independent,California,Blue,0,0,1
+2,5,1,5,1,4,3,2,2,3,2,3,3,3,3,3,2,4,1,2,32,Control Scenario,Republican,New York,Blue,0,1,0
+1,7,6,6,1,4,4,4,3,4,4,4,2,4,4,5,1,2,2,1,5,"Scenario #4, Treatment",Democrat,California,Blue,1,0,0
+2,5,4,3,1,3,2,2,2,4,4,3,2,4,4,4,3,6,8,2,6,"Scenario #4, Treatment",Independent,Colorado,Other,0,0,1
+2,2,6,3,1,3,3,3,4,4,4,4,1,3,1,3,3,6,2,2,5,"Scenario #6, Treatment",Independent,California,Blue,0,0,1
+1,7,6,3,1,4,3,2,3,4,4,3,4,4,4,2,5,4,9,2,22,"Scenario #6, Treatment",Other,Michigan,Swing,0,0,0
+1,5,2,5,1,4,4,3,4,4,4,4,2,5,4,6,2,4,9,2,5,"Scenario #4, Treatment",Republican,California,Blue,0,1,0
+2,7,3,4,1,3,3,4,3,4,4,2,1,3,3,2,1,4,1,2,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+1,7,6,2,1,4,4,4,4,4,4,4,2,4,4,4,3,4,9,2,13,"Scenario #5, Treatment",Independent,Illinois,Blue,0,0,1
+1,7,6,2,1,3,3,3,3,4,2,4,3,4,4,3,1,3,2,2,13,"Scenario #6, Treatment",Democrat,Illinois,Blue,1,0,0
+1,7,6,3,1,2,1,4,3,3,2,3,4,4,4,4,2,6,2,1,32,"Scenario #3, Treatment",Republican,New York,Blue,0,1,0
+1,5,6,3,1,4,4,4,2,2,4,4,2,4,3,3,1,3,2,2,39,"Scenario #3, Treatment",Democrat,Rhode Island,Blue,1,0,0
+1,5,6,5,1,4,4,5,4,4,4,4,2,4,4,4,2,4,2,1,28,"Scenario #2, Treatment",Republican,Nevada,Swing,0,1,0
+1,6,6,3,1,4,3,3,3,4,3,3,2,4,3,5,3,7,1,2,43,Control Scenario,Independent,Texas,Other,0,0,1
+2,2,6,4,1,1,1,5,1,2,1,2,1,3,4,3,3,6,10,2,3,"Scenario #4, Treatment",Independent,Arizona,Swing,0,0,1
+2,5,6,6,1,5,4,4,3,4,4,3,2,5,4,4,2,3,1,2,38,"Scenario #1, Treatment",Republican,Pennsylvania,Swing,0,1,0
+1,6,6,2,1,3,3,3,3,3,3,3,3,3,3,2,2,4,9,2,43,"Scenario #4, Treatment",Republican,Texas,Other,0,1,0
+1,6,6,4,1,2,2,2,2,2,2,2,2,4,3,3,3,6,1,1,47,"Scenario #1, Treatment",Independent,Washington,Blue,0,0,1
+1,5,2,5,1,4,4,4,4,4,4,4,2,4,4,4,2,2,2,1,28,"Scenario #2, Treatment",Republican,Nevada,Swing,0,1,0
+2,4,2,6,1,5,4,3,4,5,5,4,1,3,4,6,4,4,1,2,2,"Scenario #5, Treatment",Other,Alaska,Other,0,0,0
+1,4,6,5,1,5,5,5,5,5,5,5,1,5,5,4,2,7,1,2,10,"Scenario #6, Treatment",Republican,Georgia,Swing,0,1,0
+2,5,6,2,1,3,3,3,3,3,3,3,3,3,3,5,3,8,9,2,21,Control Scenario,Independent,Massachusetts,Blue,0,0,1
+1,5,6,2,1,1,1,4,1,2,1,4,2,5,4,4,2,5,2,1,49,"Scenario #5, Treatment",Republican,Wisconsin,Swing,0,1,0
+2,5,6,5,1,4,4,4,3,3,2,4,3,4,4,6,2,4,3,2,44,"Scenario #3, Treatment",Republican,Utah,Red,0,1,0
+2,3,4,3,1,3,3,3,3,3,3,3,3,3,3,1,1,8,2,2,5,Control Scenario,Democrat,California,Blue,1,0,0
+1,4,6,5,1,5,4,5,4,4,5,5,1,5,5,6,1,7,2,1,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+1,5,6,2,1,5,5,4,5,3,3,3,3,4,4,2,2,4,9,2,22,"Scenario #4, Treatment",Republican,Michigan,Swing,0,1,0
+1,7,6,2,1,3,3,4,3,3,2,3,3,4,2,1,2,5,3,1,14,"Scenario #4, Treatment",Republican,Indiana,Other,0,1,0
+1,7,6,5,1,2,2,4,4,4,4,4,1,4,4,3,1,2,3,2,35,"Scenario #5, Treatment",Democrat,Ohio,Other,1,0,0
+2,6,4,3,1,3,3,3,3,4,4,4,2,4,4,4,4,8,3,2,3,"Scenario #3, Treatment",Other,Arizona,Swing,0,0,0
+1,7,6,5,1,3,3,5,3,4,3,3,2,3,3,4,2,3,1,1,43,"Scenario #1, Treatment",Republican,Texas,Other,0,1,0
+1,5,6,2,1,2,2,2,2,4,2,2,4,2,2,3,1,4,2,2,38,"Scenario #6, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,7,6,2,1,1,1,5,3,3,4,4,2,5,4,3,3,7,1,2,19,"Scenario #1, Treatment",Independent,Maine,Other,0,0,1
+2,5,6,4,1,3,2,2,3,3,3,2,4,2,2,2,3,7,2,2,40,"Scenario #2, Treatment",Independent,South Carolina,Red,0,0,1
+2,2,2,5,1,4,3,4,4,4,3,2,3,4,4,6,3,6,3,2,14,Control Scenario,Independent,Indiana,Other,0,0,1
+2,5,2,6,1,4,4,4,3,4,4,4,2,4,4,6,1,4,7,2,22,"Scenario #4, Treatment",Democrat,Michigan,Swing,1,0,0
+1,7,6,3,1,4,3,4,2,4,3,4,2,4,4,3,1,4,9,1,27,"Scenario #5, Treatment",Democrat,Nebraska,Red,1,0,0
+1,2,2,3,1,4,3,4,3,4,4,4,3,4,3,3,2,3,2,1,32,"Scenario #1, Treatment",Republican,New York,Blue,0,1,0
+1,7,6,5,1,4,4,4,4,3,4,4,2,2,3,3,3,5,1,2,5,Control Scenario,Independent,California,Blue,0,0,1
+1,6,6,4,1,3,4,2,3,3,2,4,2,4,3,2,1,3,8,2,3,"Scenario #4, Treatment",Democrat,Arizona,Swing,1,0,0
+1,5,6,2,1,4,4,4,4,4,4,4,3,4,4,2,3,6,1,1,30,"Scenario #2, Treatment",Independent,New Jersey,Blue,0,0,1
+1,6,6,6,1,4,4,4,3,4,3,4,3,5,4,6,3,6,2,2,9,"Scenario #6, Treatment",Independent,Florida,Other,0,0,1
+2,5,6,5,1,5,5,5,5,5,5,5,1,5,5,4,1,2,1,2,9,"Scenario #2, Treatment",Democrat,Florida,Other,1,0,0
+2,6,6,3,1,4,3,4,2,5,5,4,2,5,5,1,1,2,9,2,5,"Scenario #5, Treatment",Democrat,California,Blue,1,0,0
+2,4,3,3,1,3,3,2,2,3,2,4,1,2,4,5,2,4,9,2,5,"Scenario #1, Treatment",Republican,California,Blue,0,1,0
+2,2,6,3,1,4,5,4,4,5,4,5,3,5,5,1,1,2,10,2,42,"Scenario #3, Treatment",Democrat,Tennessee,Red,1,0,0
+2,5,6,3,1,3,3,4,3,3,3,4,2,4,4,4,4,4,9,2,28,Control Scenario,Other,Nevada,Swing,0,0,0
+1,7,6,3,1,5,5,3,4,4,4,4,2,4,4,6,3,6,1,2,38,"Scenario #5, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,6,6,5,1,3,3,3,4,4,4,4,3,3,4,6,1,4,9,2,30,"Scenario #6, Treatment",Democrat,New Jersey,Blue,1,0,0
+2,4,3,2,1,5,5,5,5,5,4,4,2,4,5,1,1,1,1,1,43,"Scenario #4, Treatment",Democrat,Texas,Other,1,0,0
+1,7,6,3,1,3,3,2,3,4,3,4,4,4,4,3,2,4,1,1,36,"Scenario #3, Treatment",Republican,Oklahoma,Red,0,1,0
+1,2,2,5,1,4,4,4,4,4,5,5,2,4,4,1,1,2,8,2,40,"Scenario #4, Treatment",Democrat,South Carolina,Red,1,0,0
+2,5,6,4,1,2,3,4,2,1,3,4,1,3,4,2,1,2,4,2,6,"Scenario #1, Treatment",Democrat,Colorado,Other,1,0,0
+2,5,6,3,1,3,3,4,3,3,2,2,2,4,3,1,3,4,10,2,43,"Scenario #4, Treatment",Independent,Texas,Other,0,0,1
+2,6,6,4,1,5,5,4,1,3,3,3,2,5,5,4,2,4,2,2,21,"Scenario #6, Treatment",Republican,Massachusetts,Blue,0,1,0
+1,7,6,3,1,3,3,4,4,5,5,4,3,4,5,3,3,4,2,1,15,"Scenario #2, Treatment",Independent,Iowa,Other,0,0,1
+2,2,4,3,1,4,4,4,2,4,2,4,2,3,5,3,2,3,9,2,5,"Scenario #6, Treatment",Republican,California,Blue,0,1,0
+1,5,6,2,1,4,4,5,4,4,4,4,3,4,4,2,3,7,3,2,28,"Scenario #5, Treatment",Independent,Nevada,Swing,0,0,1
+2,7,6,4,1,4,4,2,2,4,2,4,2,4,4,2,1,3,9,2,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+2,4,3,5,1,5,5,4,4,5,3,5,2,3,5,3,1,7,3,2,38,"Scenario #1, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,4,4,5,1,5,5,4,4,4,2,4,4,5,5,3,1,3,2,2,9,"Scenario #6, Treatment",Democrat,Florida,Other,1,0,0
+1,5,6,6,1,5,4,4,4,5,4,4,1,4,4,6,1,2,1,2,32,Control Scenario,Democrat,New York,Blue,1,0,0
+1,5,6,4,1,3,2,4,2,3,3,3,2,4,4,6,3,7,1,2,9,"Scenario #2, Treatment",Independent,Florida,Other,0,0,1
+1,7,6,5,1,4,4,4,5,5,5,4,2,4,4,6,3,6,2,1,43,"Scenario #3, Treatment",Independent,Texas,Other,0,0,1
+1,4,6,6,1,5,5,5,5,5,5,5,1,5,5,6,1,1,1,1,3,"Scenario #1, Treatment",Democrat,Arizona,Swing,1,0,0
+1,7,6,4,1,2,2,4,3,4,3,4,4,3,4,4,3,6,1,1,30,"Scenario #3, Treatment",Independent,New Jersey,Blue,0,0,1
+1,5,2,2,1,2,2,4,2,3,4,3,2,4,4,6,4,8,8,2,32,"Scenario #4, Treatment",Other,New York,Blue,0,0,0
+1,7,6,2,1,2,2,3,4,4,3,2,3,2,4,3,3,4,1,2,3,"Scenario #6, Treatment",Independent,Arizona,Swing,0,0,1
+1,7,6,3,1,3,2,3,2,2,3,2,3,2,3,4,1,4,9,2,5,"Scenario #4, Treatment",Democrat,California,Blue,1,0,0
+2,5,2,3,1,5,5,5,4,5,5,5,3,5,5,4,2,4,6,2,5,"Scenario #5, Treatment",Republican,California,Blue,0,1,0
+1,5,6,5,1,3,3,5,1,1,1,1,5,1,2,6,3,6,3,2,38,Control Scenario,Independent,Pennsylvania,Swing,0,0,1
+1,4,3,5,1,4,4,3,3,4,3,3,2,4,4,4,2,4,2,2,32,"Scenario #5, Treatment",Republican,New York,Blue,0,1,0
+2,2,6,3,1,5,3,3,4,3,2,4,1,3,5,3,5,4,9,2,21,Control Scenario,Other,Massachusetts,Blue,0,0,0
+2,7,6,6,1,3,3,4,2,2,2,2,3,4,3,2,1,3,8,1,28,Control Scenario,Democrat,Nevada,Swing,1,0,0
+2,7,6,3,1,3,3,3,2,2,3,3,2,2,4,2,3,5,1,2,1,"Scenario #2, Treatment",Independent,Alabama,Red,0,0,1
+2,5,3,3,1,2,1,5,4,4,4,2,4,2,2,3,1,8,3,2,9,"Scenario #6, Treatment",Democrat,Florida,Other,1,0,0
+1,7,6,4,1,3,3,4,2,2,4,4,2,4,4,3,3,4,2,1,9,"Scenario #3, Treatment",Independent,Florida,Other,0,0,1
+1,5,6,3,1,4,4,2,1,4,4,3,1,4,4,2,2,5,8,1,3,"Scenario #3, Treatment",Republican,Arizona,Swing,0,1,0
+1,7,6,4,1,4,4,2,4,3,3,3,3,4,2,2,2,6,3,2,4,"Scenario #6, Treatment",Republican,Arkansas,Red,0,1,0
+1,7,6,3,1,4,3,4,1,2,1,2,1,3,4,6,3,4,3,2,32,"Scenario #3, Treatment",Independent,New York,Blue,0,0,1
+1,4,2,5,1,5,5,5,5,5,5,5,2,5,4,4,2,1,1,1,11,"Scenario #4, Treatment",Republican,Hawaii,Blue,0,1,0
+2,2,6,3,1,3,4,4,3,4,4,3,2,3,3,4,2,4,9,2,7,"Scenario #5, Treatment",Republican,Connecticut,Blue,0,1,0
+2,7,6,3,1,2,2,4,4,4,4,5,2,4,4,2,2,3,3,2,17,"Scenario #2, Treatment",Republican,Kentucky,Red,0,1,0
+1,5,6,2,1,3,2,4,4,4,3,4,3,4,4,3,4,4,9,2,38,"Scenario #1, Treatment",Other,Pennsylvania,Swing,0,0,0
+1,7,6,6,1,2,2,3,4,4,3,4,1,5,4,3,1,1,4,2,10,"Scenario #2, Treatment",Democrat,Georgia,Swing,1,0,0
+1,6,6,3,1,3,3,4,3,4,4,4,3,3,3,3,3,6,9,2,43,"Scenario #1, Treatment",Independent,Texas,Other,0,0,1
+1,7,6,4,1,4,4,4,4,4,4,4,2,4,4,3,3,5,1,1,43,Control Scenario,Independent,Texas,Other,0,0,1
+1,5,6,5,1,3,3,3,3,3,3,3,3,3,3,4,2,3,9,2,28,"Scenario #6, Treatment",Republican,Nevada,Swing,0,1,0
+2,6,6,4,1,3,2,2,2,3,2,3,2,4,3,6,2,3,2,2,38,"Scenario #4, Treatment",Republican,Pennsylvania,Swing,0,1,0
+1,2,6,5,1,4,4,4,3,5,4,5,3,4,5,5,2,8,9,2,32,"Scenario #3, Treatment",Republican,New York,Blue,0,1,0
+1,2,4,3,1,3,2,1,1,4,5,4,3,5,5,1,5,8,8,2,37,"Scenario #5, Treatment",Other,Oregon,Blue,0,0,0
+1,7,6,6,1,2,2,3,2,2,2,2,1,4,4,6,1,2,4,2,5,"Scenario #4, Treatment",Democrat,California,Blue,1,0,0
+2,7,6,5,1,3,3,2,2,4,4,4,2,4,3,1,3,3,3,2,43,"Scenario #3, Treatment",Independent,Texas,Other,0,0,1
+1,6,6,4,1,4,4,4,4,4,3,4,3,4,4,5,3,6,3,2,10,"Scenario #5, Treatment",Independent,Georgia,Swing,0,0,1
+1,4,6,5,1,5,5,5,5,4,5,4,1,4,5,4,2,3,8,1,32,"Scenario #2, Treatment",Republican,New York,Blue,0,1,0
+1,4,6,6,1,3,2,5,4,4,5,3,3,4,5,6,2,4,5,2,5,"Scenario #6, Treatment",Republican,California,Blue,0,1,0
+1,6,6,5,1,4,4,4,3,4,4,4,3,4,4,5,2,4,8,2,43,"Scenario #3, Treatment",Republican,Texas,Other,0,1,0
+1,3,3,5,1,5,3,4,5,3,4,5,4,3,4,5,1,1,1,1,4,"Scenario #5, Treatment",Democrat,Arkansas,Red,1,0,0
+2,7,6,2,1,2,2,2,3,2,2,4,2,3,4,5,2,7,1,2,6,"Scenario #2, Treatment",Republican,Colorado,Other,0,1,0
+1,5,6,5,1,3,3,4,2,2,4,3,4,4,3,3,2,2,8,2,5,"Scenario #4, Treatment",Republican,California,Blue,0,1,0
+1,5,6,5,1,3,3,3,3,3,2,4,3,4,4,4,1,3,9,2,43,"Scenario #1, Treatment",Democrat,Texas,Other,1,0,0
+1,2,6,3,1,4,3,4,4,4,3,4,4,4,4,4,3,4,8,2,46,"Scenario #2, Treatment",Independent,Virginia,Other,0,0,1
+1,7,6,5,1,4,4,5,4,4,4,4,2,4,4,5,3,6,2,2,32,"Scenario #3, Treatment",Independent,New York,Blue,0,0,1
+2,2,6,2,1,2,2,3,2,5,5,5,1,5,5,4,3,8,1,2,21,"Scenario #5, Treatment",Independent,Massachusetts,Blue,0,0,1
+1,3,1,5,1,5,5,4,4,4,4,4,2,4,4,6,3,4,7,2,6,"Scenario #6, Treatment",Independent,Colorado,Other,0,0,1
+1,7,6,5,1,3,3,3,1,3,3,4,2,4,4,6,2,5,2,2,5,Control Scenario,Republican,California,Blue,0,1,0
+2,6,6,2,1,3,3,2,2,3,1,2,2,2,4,2,2,4,9,2,23,"Scenario #6, Treatment",Republican,Minnesota,Other,0,1,0
+1,2,6,5,1,2,2,4,4,4,4,4,1,4,4,3,3,5,1,2,46,"Scenario #4, Treatment",Independent,Virginia,Other,0,0,1
+1,5,6,6,1,2,2,4,3,3,4,3,4,3,4,4,2,4,8,2,5,"Scenario #6, Treatment",Republican,California,Blue,0,1,0
+1,6,6,5,1,1,2,4,2,2,2,3,2,2,2,6,3,5,1,2,7,"Scenario #2, Treatment",Independent,Connecticut,Blue,0,0,1
+2,5,6,2,1,4,4,4,3,4,2,4,2,4,3,3,2,4,10,2,33,Control Scenario,Republican,North Carolina,Swing,0,1,0
+1,5,6,3,1,3,3,4,2,3,1,3,4,3,3,2,3,4,2,2,9,"Scenario #3, Treatment",Independent,Florida,Other,0,0,1
+1,4,6,5,1,5,5,5,5,5,5,5,1,5,5,6,1,1,1,1,9,"Scenario #3, Treatment",Democrat,Florida,Other,1,0,0
+1,6,6,3,1,2,2,4,2,4,4,4,4,5,4,3,1,4,2,1,46,"Scenario #1, Treatment",Democrat,Virginia,Other,1,0,0
+1,7,6,3,1,4,3,2,4,3,3,4,2,4,3,4,3,7,1,1,43,Control Scenario,Independent,Texas,Other,0,0,1
+1,6,6,4,1,5,5,5,4,5,5,5,2,5,5,3,2,4,1,2,47,"Scenario #1, Treatment",Republican,Washington,Blue,0,1,0
+1,6,6,6,1,3,3,4,5,5,5,4,1,5,5,3,3,6,9,2,48,"Scenario #2, Treatment",Independent,West Virginia,Red,0,0,1
+1,7,6,5,1,2,2,2,2,3,2,3,3,2,2,4,3,6,1,2,7,"Scenario #4, Treatment",Independent,Connecticut,Blue,0,0,1
+1,7,6,2,1,1,1,1,1,4,2,1,2,2,1,2,3,6,3,2,29,"Scenario #1, Treatment",Independent,New Hampshire,Other,0,0,1
+1,6,6,6,1,4,3,2,4,4,5,4,2,3,5,6,2,3,2,2,5,"Scenario #5, Treatment",Republican,California,Blue,0,1,0
+2,7,6,5,1,4,4,4,5,3,4,4,3,5,4,3,1,2,9,2,9,"Scenario #6, Treatment",Democrat,Florida,Other,1,0,0
+1,6,6,6,1,4,4,3,2,3,2,3,2,4,3,6,1,3,9,2,47,Control Scenario,Democrat,Washington,Blue,1,0,0
+1,7,6,1,1,1,1,4,5,1,1,1,3,1,1,3,3,5,2,2,28,"Scenario #2, Treatment",Independent,Nevada,Swing,0,0,1
+2,7,6,3,1,2,2,4,2,3,2,4,1,4,4,1,1,1,9,2,32,"Scenario #4, Treatment",Democrat,New York,Blue,1,0,0
+1,5,4,2,1,3,2,4,3,3,3,3,2,3,4,1,2,4,2,2,6,"Scenario #4, Treatment",Republican,Colorado,Other,0,1,0
+1,6,6,4,1,4,4,4,4,4,4,4,2,4,4,2,1,1,4,2,3,"Scenario #6, Treatment",Democrat,Arizona,Swing,1,0,0
+2,3,4,3,1,4,4,4,3,4,5,4,2,4,4,1,5,8,9,2,5,"Scenario #3, Treatment",Other,California,Blue,0,0,0
+2,7,6,3,1,3,1,1,1,1,1,2,4,2,1,3,3,6,2,2,38,"Scenario #5, Treatment",Independent,Pennsylvania,Swing,0,0,1
+1,2,4,2,1,3,3,3,3,3,3,3,3,3,3,1,5,8,9,2,37,Control Scenario,Other,Oregon,Blue,0,0,0
+2,7,6,6,1,2,2,1,1,3,1,4,3,3,4,2,3,5,2,2,26,"Scenario #3, Treatment",Independent,Montana,Red,0,0,1
+2,3,6,3,1,3,3,2,1,2,2,3,2,2,3,3,4,5,9,2,40,Control Scenario,Other,South Carolina,Red,0,0,0
+1,2,4,5,1,2,2,4,4,2,4,2,4,4,4,3,2,6,2,2,37,"Scenario #6, Treatment",Republican,Oregon,Blue,0,1,0
+1,4,6,2,1,2,2,5,2,3,2,3,4,4,4,3,2,4,2,1,38,"Scenario #6, Treatment",Republican,Pennsylvania,Swing,0,1,0
+2,7,6,6,1,1,1,4,1,1,2,2,3,2,2,4,3,7,2,2,21,"Scenario #5, Treatment",Independent,Massachusetts,Blue,0,0,1
+2,7,6,6,1,1,1,1,2,3,2,3,3,1,3,4,1,5,1,2,32,"Scenario #4, Treatment",Democrat,New York,Blue,1,0,0
+2,6,6,5,1,3,2,4,2,4,4,4,4,5,4,4,1,3,8,2,9,"Scenario #5, Treatment",Democrat,Florida,Other,1,0,0
+2,7,6,3,1,2,2,2,2,3,2,3,3,2,4,4,3,7,1,2,12,"Scenario #2, Treatment",Independent,Idaho,Red,0,0,1
+2,7,6,6,1,4,3,4,2,4,2,4,2,4,4,4,2,4,1,2,46,"Scenario #1, Treatment",Republican,Virginia,Other,0,1,0
+1,2,4,5,1,4,4,4,3,2,4,2,2,5,4,3,1,4,3,2,5,"Scenario #3, Treatment",Democrat,California,Blue,1,0,0
+1,4,6,4,1,5,5,5,4,5,2,2,2,4,4,6,1,3,9,2,1,"Scenario #1, Treatment",Democrat,Alabama,Red,1,0,0
+2,4,3,3,1,4,3,4,2,3,3,3,3,2,2,4,1,6,1,2,38,"Scenario #4, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,6,6,3,1,5,5,4,5,4,5,5,2,5,5,6,3,6,2,2,50,"Scenario #6, Treatment",Independent,Wyoming,Red,0,0,1
+1,2,4,4,1,4,4,3,4,5,2,4,2,5,5,2,4,2,9,2,44,Control Scenario,Other,Utah,Red,0,0,0
+2,7,6,5,1,4,3,4,4,4,3,3,3,4,4,4,1,2,2,2,30,"Scenario #1, Treatment",Democrat,New Jersey,Blue,1,0,0
+1,2,4,4,1,3,3,3,3,3,3,3,3,3,3,3,3,8,3,2,5,Control Scenario,Independent,California,Blue,0,0,1
+2,7,6,6,1,4,3,4,2,4,4,3,2,4,4,3,1,1,6,2,31,"Scenario #5, Treatment",Democrat,New Mexico,Other,1,0,0
+1,2,6,4,1,4,4,4,5,5,5,5,1,4,4,6,3,7,10,2,5,"Scenario #2, Treatment",Independent,California,Blue,0,0,1
+2,4,4,2,1,2,2,4,3,3,4,3,3,3,3,2,2,8,1,2,6,"Scenario #6, Treatment",Republican,Colorado,Other,0,1,0
+2,5,4,1,1,3,3,3,2,3,3,3,3,3,3,2,5,8,3,2,5,"Scenario #4, Treatment",Other,California,Blue,0,0,0
+1,3,6,6,1,5,4,4,4,5,4,4,1,5,3,6,3,4,2,2,5,"Scenario #4, Treatment",Independent,California,Blue,0,0,1
+2,7,6,2,1,4,4,4,3,4,4,4,2,4,4,2,2,4,2,2,37,Control Scenario,Republican,Oregon,Blue,0,1,0
+2,7,6,5,1,4,4,3,4,4,4,4,4,4,4,3,1,3,9,2,47,"Scenario #3, Treatment",Democrat,Washington,Blue,1,0,0
+2,7,6,5,1,2,2,3,3,4,3,4,3,3,4,6,4,4,3,2,28,"Scenario #5, Treatment",Other,Nevada,Swing,0,0,0
+1,2,6,2,1,5,5,4,5,4,5,5,2,5,4,6,5,5,1,2,5,"Scenario #2, Treatment",Other,California,Blue,0,0,0
+2,4,3,4,1,4,3,4,4,4,4,2,2,5,5,3,1,4,3,2,20,"Scenario #1, Treatment",Democrat,Maryland,Blue,1,0,0
+1,4,2,5,1,4,4,4,4,4,4,4,3,4,4,5,2,4,1,2,5,"Scenario #6, Treatment",Republican,California,Blue,0,1,0
+2,7,6,2,1,3,3,3,2,3,3,4,3,3,3,2,1,4,2,2,21,"Scenario #2, Treatment",Democrat,Massachusetts,Blue,1,0,0
+2,6,6,5,1,1,1,4,2,5,1,5,2,2,4,3,3,3,1,1,6,"Scenario #1, Treatment",Independent,Colorado,Other,0,0,1
+2,6,6,2,1,1,3,3,3,3,3,3,3,3,3,3,4,4,3,2,32,"Scenario #6, Treatment",Other,New York,Blue,0,0,0
+2,5,4,2,1,3,3,4,2,4,4,5,2,1,3,3,2,4,9,2,7,"Scenario #3, Treatment",Republican,Connecticut,Blue,0,1,0
+2,6,6,3,1,3,3,3,3,3,3,3,3,3,3,1,3,7,1,2,38,"Scenario #5, Treatment",Independent,Pennsylvania,Swing,0,0,1
+2,5,3,2,1,3,3,4,2,3,2,2,2,2,3,3,2,1,9,2,28,"Scenario #4, Treatment",Republican,Nevada,Swing,0,1,0
+2,7,6,2,1,4,4,1,3,3,3,3,3,3,3,2,2,5,3,2,3,Control Scenario,Republican,Arizona,Swing,0,1,0
+2,7,6,6,1,4,4,4,4,4,3,4,3,4,4,6,1,2,1,2,3,"Scenario #6, Treatment",Democrat,Arizona,Swing,1,0,0
+2,7,6,4,1,4,4,3,3,4,2,4,2,3,4,2,1,4,1,2,3,Control Scenario,Democrat,Arizona,Swing,1,0,0
+1,3,5,6,1,5,4,5,5,4,4,5,4,4,4,2,1,1,2,2,5,"Scenario #1, Treatment",Democrat,California,Blue,1,0,0
+2,7,6,3,1,4,4,3,4,4,5,4,2,4,4,4,1,4,1,2,38,"Scenario #4, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+2,5,4,4,1,2,2,2,2,4,2,4,2,4,4,1,2,2,3,2,43,"Scenario #3, Treatment",Republican,Texas,Other,0,1,0
+2,6,6,6,1,1,1,2,1,2,2,3,4,3,4,3,2,4,9,2,6,"Scenario #2, Treatment",Republican,Colorado,Other,0,1,0
+2,7,2,2,1,2,2,2,2,2,4,4,3,4,2,4,3,4,9,2,5,"Scenario #5, Treatment",Independent,California,Blue,0,0,1
+2,5,4,3,1,5,4,4,4,4,3,5,1,5,5,4,1,1,1,2,5,Control Scenario,Democrat,California,Blue,1,0,0
+1,6,6,5,1,2,1,2,4,4,4,4,1,4,4,6,2,4,1,2,3,"Scenario #3, Treatment",Republican,Arizona,Swing,0,1,0
+2,6,2,5,1,2,2,3,3,3,2,4,3,4,4,6,2,4,1,2,5,"Scenario #4, Treatment",Republican,California,Blue,0,1,0
+2,4,6,2,1,1,1,1,1,5,1,1,5,1,1,2,3,7,1,2,5,"Scenario #2, Treatment",Independent,California,Blue,0,0,1
+2,3,4,4,1,3,3,3,3,3,3,3,3,3,3,1,2,4,2,2,33,"Scenario #6, Treatment",Republican,North Carolina,Swing,0,1,0
+2,5,2,5,1,3,3,3,2,3,2,3,4,4,4,6,2,4,2,2,5,"Scenario #5, Treatment",Republican,California,Blue,0,1,0
+2,7,6,3,1,4,4,4,2,4,2,4,2,4,4,2,3,7,3,2,5,"Scenario #1, Treatment",Independent,California,Blue,0,0,1
+1,2,2,3,1,3,3,3,3,3,3,3,3,3,3,3,4,8,10,2,11,"Scenario #5, Treatment",Other,Hawaii,Blue,0,0,0
+1,2,2,5,1,4,4,4,2,4,4,3,1,4,4,5,1,2,7,2,5,Control Scenario,Democrat,California,Blue,1,0,0
+2,7,6,5,1,4,4,2,2,4,4,2,4,4,4,2,1,1,1,2,47,"Scenario #3, Treatment",Democrat,Washington,Blue,1,0,0
+1,2,6,4,1,5,4,5,5,4,3,4,1,4,5,5,3,1,5,2,5,"Scenario #2, Treatment",Independent,California,Blue,0,0,1
+2,7,1,5,1,1,1,4,1,2,3,4,4,3,4,3,2,6,2,1,47,"Scenario #4, Treatment",Republican,Washington,Blue,0,1,0
+1,4,2,5,1,2,2,4,4,4,5,4,3,4,5,6,1,4,9,2,5,"Scenario #6, Treatment",Democrat,California,Blue,1,0,0
+1,2,5,5,1,4,5,4,4,4,5,3,3,5,3,5,5,2,9,2,11,"Scenario #6, Treatment",Other,Hawaii,Blue,0,0,0
+2,7,6,6,1,4,3,3,3,4,3,3,2,4,4,4,1,2,2,2,6,Control Scenario,Democrat,Colorado,Other,1,0,0
+2,5,2,5,1,5,4,5,5,4,4,5,1,4,4,3,3,4,1,2,2,"Scenario #1, Treatment",Independent,Alaska,Other,0,0,1
+2,7,6,3,1,2,2,4,2,4,3,4,2,4,4,3,1,4,2,2,5,"Scenario #3, Treatment",Democrat,California,Blue,1,0,0
+1,5,6,2,1,4,4,4,3,4,4,4,2,4,4,6,2,4,8,2,5,"Scenario #2, Treatment",Republican,California,Blue,0,1,0
+1,2,4,2,1,4,3,3,3,4,3,4,2,5,5,1,5,3,2,2,5,"Scenario #4, Treatment",Other,California,Blue,0,0,0
+2,7,6,3,1,2,2,2,2,2,2,2,2,2,2,2,2,5,2,2,28,"Scenario #5, Treatment",Republican,Nevada,Swing,0,1,0
+2,7,6,5,1,3,3,3,3,3,2,3,3,3,4,3,3,7,2,2,28,Control Scenario,Independent,Nevada,Swing,0,0,1
+2,4,6,5,1,4,4,4,4,4,3,4,2,4,4,6,2,4,2,2,6,"Scenario #5, Treatment",Republican,Colorado,Other,0,1,0
+2,3,3,5,1,4,4,4,4,4,4,4,2,5,4,5,1,2,2,2,38,"Scenario #4, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+2,5,4,3,1,4,3,1,4,3,4,3,5,5,4,1,2,3,3,2,3,"Scenario #6, Treatment",Republican,Arizona,Swing,0,1,0
+2,7,6,3,1,5,4,5,4,4,4,5,2,4,4,3,1,2,2,2,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+2,7,6,6,1,4,3,2,3,4,3,4,2,4,5,6,1,4,1,2,32,"Scenario #3, Treatment",Democrat,New York,Blue,1,0,0
+1,2,6,5,1,5,3,5,1,4,5,3,2,5,5,2,1,5,2,2,5,"Scenario #2, Treatment",Democrat,California,Blue,1,0,0
+2,7,6,6,1,3,3,3,3,3,2,2,3,4,3,3,3,6,1,2,30,"Scenario #3, Treatment",Independent,New Jersey,Blue,0,0,1
+1,3,6,2,1,5,3,3,4,4,5,5,1,5,5,3,1,8,2,2,3,"Scenario #5, Treatment",Democrat,Arizona,Swing,1,0,0
+2,7,6,3,1,2,2,3,4,4,3,4,2,4,4,5,1,4,9,2,29,"Scenario #1, Treatment",Democrat,New Hampshire,Other,1,0,0
+2,7,2,3,1,4,4,3,3,3,4,3,2,3,4,4,1,2,8,2,5,"Scenario #2, Treatment",Democrat,California,Blue,1,0,0
+2,7,6,3,1,4,4,4,3,4,5,4,1,5,4,3,1,4,9,2,21,"Scenario #6, Treatment",Democrat,Massachusetts,Blue,1,0,0
+2,6,4,2,1,3,3,2,3,3,2,3,3,3,3,2,5,8,10,2,26,Control Scenario,Other,Montana,Red,0,0,0
+2,7,6,2,1,3,3,2,3,2,4,3,3,3,4,5,3,8,2,2,32,"Scenario #4, Treatment",Independent,New York,Blue,0,0,1
+2,7,6,2,1,4,3,2,4,3,4,3,2,4,4,3,1,3,2,2,32,"Scenario #1, Treatment",Democrat,New York,Blue,1,0,0
+2,7,6,5,1,5,4,4,4,4,4,4,3,3,4,4,3,6,1,2,21,"Scenario #5, Treatment",Independent,Massachusetts,Blue,0,0,1
+1,7,6,2,1,3,3,3,2,5,2,2,2,3,2,3,5,4,3,2,32,"Scenario #3, Treatment",Other,New York,Blue,0,0,0
+2,7,6,5,1,4,4,4,2,2,2,4,4,4,4,4,3,4,1,2,4,Control Scenario,Independent,Arkansas,Red,0,0,1
+2,7,6,2,1,3,3,4,1,3,2,3,3,4,4,2,3,7,2,2,43,"Scenario #4, Treatment",Independent,Texas,Other,0,0,1
+2,7,6,6,1,4,4,3,3,4,2,4,3,4,4,2,1,2,1,2,43,"Scenario #6, Treatment",Democrat,Texas,Other,1,0,0
+2,6,4,5,1,3,3,1,3,4,4,4,2,3,4,3,2,4,2,2,42,"Scenario #5, Treatment",Republican,Tennessee,Red,0,1,0
+2,7,6,3,1,2,1,4,2,3,4,3,2,4,4,4,3,6,1,2,33,"Scenario #2, Treatment",Independent,North Carolina,Swing,0,0,1
+2,3,4,4,1,2,2,1,2,2,4,2,2,2,4,3,1,5,1,2,43,"Scenario #3, Treatment",Democrat,Texas,Other,1,0,0
+2,3,4,3,1,4,4,4,3,4,4,4,2,5,4,6,2,5,2,1,43,Control Scenario,Republican,Texas,Other,0,1,0
+2,7,6,2,1,2,2,3,2,2,3,2,3,3,3,3,1,4,9,2,48,"Scenario #1, Treatment",Democrat,West Virginia,Red,1,0,0
+2,5,4,2,1,4,4,4,4,4,4,4,2,4,4,2,1,4,2,2,5,"Scenario #4, Treatment",Democrat,California,Blue,1,0,0
+2,7,6,5,1,2,2,4,3,3,3,3,2,4,3,4,1,6,1,2,17,"Scenario #2, Treatment",Democrat,Kentucky,Red,1,0,0
+2,7,6,5,1,4,4,1,4,1,4,3,5,3,5,1,3,7,2,2,9,"Scenario #5, Treatment",Independent,Florida,Other,0,0,1
+1,2,6,2,1,4,3,3,4,4,4,5,1,5,4,2,5,8,2,2,17,"Scenario #6, Treatment",Other,Kentucky,Red,0,0,0
+2,6,6,2,1,3,3,3,3,3,3,3,2,3,3,3,3,6,3,2,9,"Scenario #1, Treatment",Independent,Florida,Other,0,0,1
+1,5,1,3,1,4,4,2,2,3,3,3,2,4,4,5,1,2,9,2,43,"Scenario #4, Treatment",Democrat,Texas,Other,1,0,0
+2,6,4,2,1,4,4,2,3,4,2,3,2,2,2,2,1,3,2,2,3,Control Scenario,Democrat,Arizona,Swing,1,0,0
+1,6,4,3,1,4,4,3,2,3,2,3,1,4,3,5,2,6,2,1,9,"Scenario #3, Treatment",Republican,Florida,Other,0,1,0
+2,5,3,2,1,3,4,3,3,3,4,2,3,3,2,1,1,4,2,2,32,"Scenario #4, Treatment",Democrat,New York,Blue,1,0,0
+2,2,4,3,1,4,4,4,3,2,4,4,1,3,3,3,1,4,9,2,38,"Scenario #1, Treatment",Democrat,Pennsylvania,Swing,1,0,0
+1,6,4,3,1,4,4,4,4,4,4,4,2,4,4,3,1,5,3,2,5,"Scenario #3, Treatment",Democrat,California,Blue,1,0,0
+2,6,4,2,1,2,2,4,3,4,3,3,2,3,3,3,1,4,3,2,28,"Scenario #6, Treatment",Democrat,Nevada,Swing,1,0,0
+2,6,2,2,1,3,3,2,2,3,3,4,2,3,3,3,1,2,9,2,32,"Scenario #5, Treatment",Democrat,New York,Blue,1,0,0
+2,6,4,4,2,2,2,4,2,2,2,2,3,4,2,4,1,5,2,2,9,"Scenario #2, Treatment",Democrat,Florida,Other,1,0,0
+2,5,2,5,1,4,4,3,3,3,3,3,3,3,3,5,1,4,8,2,32,Control Scenario,Democrat,New York,Blue,1,0,0
+2,6,4,6,1,5,5,5,4,4,5,4,1,5,5,6,3,5,2,2,32,"Scenario #4, Treatment",Independent,New York,Blue,0,0,1
+1,6,6,6,1,4,4,4,2,2,4,4,4,4,3,6,4,5,3,1,44,Control Scenario,Other,Utah,Red,0,0,0
+1,6,2,5,1,4,3,4,4,3,4,3,2,3,4,6,1,4,2,2,5,"Scenario #2, Treatment",Democrat,California,Blue,1,0,0
